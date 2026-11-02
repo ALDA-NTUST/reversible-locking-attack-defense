@@ -2,7 +2,7 @@
 
 The legacy research implementation associated with **Decomposition Attack on Structural Logic Locking of Reversible Circuits**, by Feng-Jie Chao and Yung-Chih Chen. This package provides the reimplementation of RevC-Lock, the paper's Decomposition Attack, and its Control Obfuscation defense. The later journal / restore-free variants and the Web application are outside this package.
 
-**Private preparation version.** Maintained through ALDA-NTUST. Technical reproduction and clean Docker online installation have been validated. Original-developer publication permission is confirmed; MIT is selected, with copyright attribution pending. See [LICENSE](LICENSE) and [publication status](docs/PUBLICATION_STATUS.md). Third-party licenses remain separate.
+**Maintained by Advanced Logic Design Automation Lab (ALDA), NTUST.** Laboratory-owned code is distributed under the [MIT License](LICENSE), with the original paper authors credited below and in [AUTHORS.md](AUTHORS.md). The associated paper appeared at ICCD 2025, pp. 646-653: [DOI 10.1109/ICCD65941.2025.00098](https://doi.org/10.1109/ICCD65941.2025.00098). Technical reproduction and clean Docker online installation have been validated. See [publication status](docs/PUBLICATION_STATUS.md). Third-party licenses remain separate.
 
 ## Quick start
 

@@ -1,6 +1,6 @@
 # Third-party sources and license scope
 
-This repository distinguishes the laboratory research code from upstream infrastructure. The laboratory user has confirmed the original developer's permission to publish; MIT has been selected for laboratory-owned code, with final copyright attribution pending. This does not alter any third-party license.
+This repository distinguishes the laboratory research code from upstream infrastructure. The laboratory user has confirmed the original developer's permission to publish and the professor's instruction to attribute laboratory-owned code to Advanced Logic Design Automation Lab (ALDA), NTUST. That code is distributed under MIT. This does not alter any third-party license.
 
 | Component | Source and locked version | Role | License evidence |
 | --- | --- | --- | --- |

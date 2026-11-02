@@ -3,10 +3,26 @@
   "publication_permission": "confirmed_by_laboratory_user",
   "scope": "Public release by the laboratory of the original developer's three legacy research functions: RevC-Lock reimplementation, attack, and defense.",
   "user_confirmation": "The developer is a senior member of the same laboratory and has confirmed that the laboratory can publish these functions.",
-  "project_license_terms": "MIT_selected_pending_copyright_attribution",
+  "project_license_terms": "MIT",
   "third_party_scope": "This confirmation does not change upstream software licenses or establish RevLib data redistribution terms.",
   "selected_license_date": "2026-11-02",
-  "copyright_holder": null,
+  "copyright_holder": "Advanced Logic Design Automation Lab (ALDA), NTUST",
   "maintainer_github_account": "ALDA-NTUST",
-  "repository": "https://github.com/ALDA-NTUST/reversible-locking-attack-defense"
+  "repository": "https://github.com/ALDA-NTUST/reversible-locking-attack-defense",
+  "copyright_year": 2026,
+  "copyright_attribution_confirmation_date": "2026-11-02",
+  "copyright_attribution_basis": "The laboratory user reported the professor's instruction to attribute the project to the laboratory, while retaining the paper authors and original third-party notices.",
+  "associated_paper": {
+    "title": "Decomposition Attack on Structural Logic Locking of Reversible Circuits",
+    "authors": [
+      "Feng-Jie Chao",
+      "Yung-Chih Chen"
+    ],
+    "venue": "2025 IEEE 43rd International Conference on Computer Design (ICCD)",
+    "year": 2025,
+    "pages": "646-653",
+    "doi": "10.1109/ICCD65941.2025.00098",
+    "metadata_source": "https://api.crossref.org/works/10.1109/ICCD65941.2025.00098",
+    "lab_website": "https://sites.google.com/view/ntust-alda"
+  }
 }

@@ -55,3 +55,8 @@ The laboratory user has confirmed the original developer's agreement to laborato
 ## 2026-11-02 update
 
 The earlier network/Docker limitations above describe the original preparation run. They are superseded for online installation and Table I by [docker_online_report.md](docker_online_report.md). MIT has since been selected; copyright attribution remains pending. The research implementation and dependency versions remain unchanged. The release checker now also detects the explicit pending-copyright marker, and its validated source seal was updated after checking that technical mode succeeds and full-release mode still blocks unfinished attribution.
+
+
+## 2026-11-02 attribution completion
+
+The laboratory user subsequently reported the professor's instruction to attribute laboratory-owned project code to Advanced Logic Design Automation Lab (ALDA), NTUST, while preserving the paper authors. The formal MIT LICENSE is now applied. README, AUTHORS.md and CITATION.cff identify the associated ICCD 2025 paper, its authors and DOI 10.1109/ICCD65941.2025.00098, verified against publisher-registered metadata. Earlier pending-attribution statements above describe historical preparation stages; they are no longer the current project status. The research code, upstream dependency notices and acceptance baselines are unchanged.

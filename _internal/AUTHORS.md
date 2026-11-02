@@ -1,11 +1,23 @@
 # Authors and attribution
 
-- **Feng-Jie Chao**: source of the original research experiment archive and its `README_FENG-JIE.txt`.
-- **Feng-Jie Chao and Yung-Chih Chen**: authors listed in the supplied manuscript, *Decomposition Attack on Structural Logic Locking of Reversible Circuits*.
-- Command-line packaging, dependency isolation and verification tooling were added during this local release preparation. The user selected ALDA-NTUST laboratory-account maintenance. The formal maintenance name and accurate copyright attribution are still to be filled in before public release.
+## Laboratory ownership and maintenance
 
-On 2026-10-31, the laboratory user confirmed that the original developer of the three research functions is a senior member of the same laboratory and has agreed to laboratory publication. This confirmation is recorded; publication permission is no longer marked as unconfirmed. MIT was selected on 2026-11-02. The exact copyright holder and years remain pending; laboratory-account maintenance does not imply a copyright transfer.
+**Advanced Logic Design Automation Lab (ALDA), National Taiwan University of Science and Technology**, is the copyright attribution and maintenance unit for this source release. The GitHub maintainer account is [ALDA-NTUST](https://github.com/ALDA-NTUST). Laboratory-owned project code is distributed under the MIT License.
 
-The hosting laboratory is the publisher/maintainer; hosting does not replace the original authors' credit. No unverified DOI, repository URL, publication year or institutional copyright transfer has been invented.
+This attribution follows the laboratory user's report of the professor's instructions on 2026-11-02. The year 2026 refers to this source release; original third-party copyright years and notices remain unchanged.
 
-Third-party contributors remain credited in their source headers, `THIRD_PARTY_NOTICES.md`, and the accompanying license texts.
+## Associated paper and research authors
+
+**Feng-Jie Chao and Yung-Chih Chen.** [Decomposition Attack on Structural Logic Locking of Reversible Circuits](https://doi.org/10.1109/ICCD65941.2025.00098). In *2025 IEEE 43rd International Conference on Computer Design (ICCD)*, pp. 646-653, 2025.
+
+- **Feng-Jie Chao** provided the original research experiment archive and its `README_FENG-JIE.txt`; that provenance is retained.
+- **Feng-Jie Chao and Yung-Chih Chen** are the paper authors, with affiliation to the Department of Electrical Engineering, National Taiwan University of Science and Technology.
+- Command-line packaging, dependency isolation, and verification tooling were added during release preparation. They are distinguished from the archived research implementation in `provenance/ADAPTATIONS.md`.
+
+The laboratory user confirmed the original developer's agreement to laboratory publication on 2026-10-31. This permission remains recorded. Laboratory copyright attribution preserves the original authors' research credit.
+
+## Earlier work and third-party components
+
+RevC-Lock is attributed to N. Limaye et al., *Revisiting logic locking for reversible computing*, ETS 2019; this project provides its research reimplementation. Decomposition Attack and Control Obfuscation are associated with the ICCD 2025 paper above.
+
+Upstream authors and copyright holders remain identified in source headers, `THIRD_PARTY_NOTICES.md`, and `licenses/`. These files and RevLib benchmark data are not reassigned to laboratory ownership by the project MIT License.

@@ -57,4 +57,4 @@ The archived 245-case validation passed in both modes. A separate clean Ubuntu 2
 
 Research code and the native entry point are under `src/`. CirKit adaptations retain their original licenses under `third_party_adapters/`. Downloaded dependencies are stored in `.deps/` and excluded from the repository. PUMA and Z3 are not compiled or linked.
 
-Original-developer permission to laboratory publication is confirmed. The user selected MIT and ALDA-NTUST laboratory-account maintenance; final copyright attribution remains pending. Third-party licenses remain separate. See [publication status](PUBLICATION_STATUS.md) and `../THIRD_PARTY_NOTICES.md`.
+Original-developer permission to laboratory publication is confirmed. Laboratory-owned code is attributed to Advanced Logic Design Automation Lab (ALDA), NTUST, and distributed under MIT. The associated ICCD 2025 paper is credited to Feng-Jie Chao and Yung-Chih Chen in the repository README and CITATION.cff. Third-party licenses remain separate. See [publication status](PUBLICATION_STATUS.md) and `../THIRD_PARTY_NOTICES.md`.

@@ -1,24 +1,25 @@
 # Publication status
 
-This repository is the private preparation version maintained by **ALDA-NTUST**.
+The source release is maintained by **Advanced Logic Design Automation Lab (ALDA), National Taiwan University of Science and Technology**, through the **ALDA-NTUST** GitHub account.
 
-- The laboratory user confirmed the original developer's agreement to publication on 2026-10-31. That permission is recorded, not pending.
-- On 2026-11-02 the user selected **MIT** for laboratory-owned code and confirmed publication and maintenance through the laboratory account.
-- The exact copyright holder and copyright years have not yet been confirmed. The user asked to leave them pending. The hosting account is not automatically the copyright holder.
-- Accordingly, `LICENSE` is currently a status notice, not a completed MIT grant. The MIT draft is retained under `../docs/MIT_DRAFT.txt` for final attribution.
-- Third-party files retain their own licenses, copyright statements and source attribution. The laboratory license selection does not replace them.
-- The supplied manuscript is attributed to Feng-Jie Chao and Yung-Chih Chen. The original research archive is credited to Feng-Jie Chao. No institutional rights transfer, DOI or publication year is invented.
+## Copyright, authors, and license
 
-## Verified implementation
+- Laboratory-owned project code is attributed to Advanced Logic Design Automation Lab (ALDA), NTUST, and distributed under the [MIT License](../LICENSE).
+- This attribution follows the laboratory user's 2026-11-02 report of the professor's instruction to attribute the project to the laboratory. The developer's agreement to laboratory publication was already confirmed on 2026-10-31.
+- Paper authors **Feng-Jie Chao** and **Yung-Chih Chen** remain credited in the README, [author record](../AUTHORS.md), and [citation file](../CITATION.cff). The original research archive remains credited to Feng-Jie Chao.
+- Third-party copyright statements, licenses, and adaptation records remain in place. Laboratory attribution does not replace upstream ownership or apply to RevLib benchmark data. See [third-party notices](../THIRD_PARTY_NOTICES.md).
+- The copyright year 2026 identifies this source release. The associated paper was published in 2025.
 
-The legacy ICCD implementation is separated from the journal and Web versions. The three research functions, dependency revisions, fixed seed and numerical acceptance baselines are unchanged from the tested source ZIP.
+## Associated paper
 
-The 2026-11-02 clean Ubuntu 22.04 Docker test installed development tools from Ubuntu, downloaded all six pinned dependencies from GitHub, compiled from source, passed all CLI/import tests, downloaded all 11 Table I inputs from RevLib, and passed every case. All 22 encrypted circuits matched the archived original-program checksums. See `../validation/docker_online_report.md`.
+**Feng-Jie Chao and Yung-Chih Chen.** [Decomposition Attack on Structural Logic Locking of Reversible Circuits](https://doi.org/10.1109/ICCD65941.2025.00098). In *2025 IEEE 43rd International Conference on Computer Design (ICCD)*, pp. 646-653, 2025. DOI: `10.1109/ICCD65941.2025.00098`.
 
-The historical 245-case validation is also retained. Timings depend on the machine. GitHub Actions execution is separate from the local Docker evidence.
+The title, authors, venue, year, pages, and DOI were checked against the publisher's registered Crossref metadata and the supplied manuscript. The laboratory website also lists this ICCD 2025 paper.
 
-## Completing the public release
+## Verification and scope
 
-Fill in the confirmed rights-holder names/years and the laboratory's preferred formal maintenance name, finalize the MIT LICENSE, synchronize the notices/manifests, and run the complete release check. This does not ask for the original developer's publication permission again.
+The legacy ICCD research functions, dependency revisions, fixed seed, and numerical acceptance baselines are unchanged. The clean Ubuntu 22.04 Docker test installed tools and downloaded all six dependencies and all 11 Table I inputs online. All cases passed; all 22 encrypted circuits matched the archived original-program hashes. The separate 245-case validation is retained.
 
-Raw RevLib circuits and their generated derivatives are not uploaded. Only the package-authored demo is included. Any future benchmark or binary distribution needs its own applicable distribution conditions.
+Only source, documentation, notices, and verification records are provided. Original RevLib inputs and generated derivatives are not included, apart from the package-authored demonstration circuit. See the validation directory for the recorded scope; CPU timings vary by machine.
+
+The repository remains private. Completing attribution and licensing does not change repository visibility or publish a binary or container image.

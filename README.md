@@ -1,8 +1,18 @@
 # Reversible Logic Locking: Attack and Defense
 
-**Private preparation version maintained by ALDA-NTUST.** MIT is selected; copyright attribution remains pending. See [publication status](PUBLICATION_STATUS.md).
+**Maintained by [Advanced Logic Design Automation Lab (ALDA)](https://sites.google.com/view/ntust-alda), National Taiwan University of Science and Technology.** Laboratory-owned code is released under the [MIT License](LICENSE).
 
-The original ICCD implementation of RevC-Lock, Decomposition Attack and Control Obfuscation, associated with the manuscript by Feng-Jie Chao and Yung-Chih Chen. This user-facing layout retains the validated implementation and its third-party notices under `_internal/`.
+This repository provides the companion implementation for:
+
+> **[Decomposition Attack on Structural Logic Locking of Reversible Circuits](https://doi.org/10.1109/ICCD65941.2025.00098)**
+>
+> **Feng-Jie Chao and Yung-Chih Chen**
+>
+> *2025 IEEE 43rd International Conference on Computer Design (ICCD)*, pp. 646-653, 2025.
+>
+> DOI: `10.1109/ICCD65941.2025.00098`
+
+It includes the RevC-Lock reimplementation, the paper's Decomposition Attack, and the Control Obfuscation defense. The implementation and its third-party notices are retained under `_internal/`.
 
 Use this guide and the three entry points: `setup.py`, `revc-tool`, and `reproduce.py`.
 
@@ -67,8 +77,25 @@ For all 245 inputs add `--suite all` and select a fresh `--output`. To continue 
 
 The algorithm, dependency versions and acceptance baseline are unchanged. The original preparation validated 245 cases in both encryption modes and matched all 490 encrypted files byte-for-byte; see [validation](_internal/validation/VALIDATION.md). CPU timings vary by machine.
 
-Original-developer permission to laboratory publication is confirmed. MIT has been selected, with final copyright attribution pending; see [LICENSE](LICENSE) and [publication status](PUBLICATION_STATUS.md). Third-party licenses and original authors remain preserved in [third-party notices](_internal/THIRD_PARTY_NOTICES.md) and [authors](_internal/AUTHORS.md). RevLib benchmark data are obtained separately and are not bundled as laboratory-owned data.
+Copyright (c) 2026 Advanced Logic Design Automation Lab (ALDA), NTUST. Laboratory-owned code is distributed under the [MIT License](LICENSE). Paper authors and original research contributions are credited in [AUTHORS.md](_internal/AUTHORS.md). Third-party code retains its original licenses and notices; see [third-party notices](_internal/THIRD_PARTY_NOTICES.md). RevLib benchmark data are obtained separately and are not assigned the laboratory software license.
 
 On 2026-11-02 the supplied implementation passed a clean Ubuntu 22.04 Docker test with online installation, all six pinned GitHub dependencies and all 11 RevLib Table I inputs downloaded from their upstream sources. All cases passed and all 22 encrypted-file checksums matched. See the [Docker report](_internal/validation/docker_online_report.md). GitHub Actions execution is separate from this Docker evidence. Changed benchmark content is rejected by checksum verification.
 
-Developers can enter `_internal/` and use its original [technical README](_internal/README.md), build configuration and maintenance scripts.
+## Citation
+
+If you use this implementation in research, please cite the associated paper:
+
+```bibtex
+@inproceedings{chao2025decomposition,
+  author    = {Feng-Jie Chao and Yung-Chih Chen},
+  title     = {Decomposition Attack on Structural Logic Locking of Reversible Circuits},
+  booktitle = {2025 IEEE 43rd International Conference on Computer Design (ICCD)},
+  year      = {2025},
+  pages     = {646--653},
+  doi       = {10.1109/ICCD65941.2025.00098}
+}
+```
+
+The same paper is recorded in [CITATION.cff](CITATION.cff). The research contributions and upstream tools are credited separately in [AUTHORS.md](_internal/AUTHORS.md) and [THIRD_PARTY_NOTICES.md](_internal/THIRD_PARTY_NOTICES.md).
+
+Developers can enter `_internal/` and use the [technical README](_internal/README.md), build configuration, and maintenance scripts.
