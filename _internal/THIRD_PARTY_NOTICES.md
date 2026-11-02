@@ -13,6 +13,23 @@ This repository distinguishes the laboratory research code from upstream infrast
 | Boost | System development package | Filesystem and C++ headers | [Boost Software License 1.0](https://www.boost.org/LICENSE_1_0.txt); supplied by system packages |
 | zlib | System development package | MiniSat compressed-file input | [zlib license](https://zlib.net/zlib_license.html); supplied by system packages |
 
+## Build and test tools
+
+The following tools support installation, compilation, or verification. They are separate from the six pinned research dependencies above. On Ubuntu, Python, CMake, GCC/G++, GNU Make, and Git are installed from Ubuntu package repositories using the README's `apt-get` commands; the links below identify their upstream projects. These tools and the operating system are not included in this source repository.
+
+| Tool or service | Official upstream source | Role |
+| --- | --- | --- |
+| Python / CPython | [python/cpython](https://github.com/python/cpython) | Command-line wrappers, dependency downloads, reproduction, and tests; standard library only |
+| CMake / CTest | [Kitware CMake](https://gitlab.kitware.com/cmake/cmake) | Native build configuration and test orchestration |
+| GCC / G++ | [GNU Compiler Collection](https://gcc.gnu.org/) | Compile the native research tool and MiniSat |
+| GNU Make | [GNU Make](https://www.gnu.org/software/make/) | Execute the generated build rules |
+| Git | [Git project](https://git-scm.com/) | Retrieve the exact upstream dependency revisions |
+| Ubuntu | [Ubuntu](https://ubuntu.com/) and [official Ubuntu container image](https://hub.docker.com/_/ubuntu) | System packages and the clean Ubuntu 22.04 test environment |
+| Docker Engine | [Docker Engine documentation](https://docs.docker.com/engine/) | Run the clean installation test; optional for ordinary use |
+| GitHub Actions / checkout | [GitHub Actions](https://docs.github.com/en/actions) and [actions/checkout](https://github.com/actions/checkout) | CI compilation and CLI tests; `.github/workflows/build.yml` uses `ubuntu-22.04` and `actions/checkout@v4` |
+
+System package versions depend on the selected Ubuntu repositories; they are not all pinned by `dependencies.lock.json`. The six research dependency commits and selected source-file hashes are pinned and verified. Docker image information and validation scope are recorded in `validation/docker_online_image.json` and `validation/docker_online_report.md`.
+
 `dependencies.lock.json` fixes exact revisions. `dependencies.integrity.json` fixes every upstream file actually used by the validated build. The dependency fetcher checks these hashes and refuses altered files. `.deps/` is ignored and excluded from the source release archive.
 
 The fetched CirKit source history contains other components and build scripts; their presence upstream is not a claim that they are laboratory-owned or covered by the same license. This package does not copy or invoke its historical GPL-marked CMake scripts. The narrow build does not compile or link PUMA (whose redistribution grant was unresolved), Z3, Readline, linenoise, or unrelated toolkits. It uses a new CMake configuration and retains the MIT notice on the explicitly adapted CirKit routines. This describes the selected build; it is not a blanket relicensing of the full CirKit repository.
