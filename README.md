@@ -1,24 +1,12 @@
 # Reversible Logic Locking: Attack and Defense
 
-**Maintained by [Advanced Logic Design Automation Lab (ALDA)](https://sites.google.com/view/ntust-alda), National Taiwan University of Science and Technology.** Laboratory-owned code is released under the [MIT License](LICENSE).
+Code for **[Decomposition Attack on Structural Logic Locking of Reversible Circuits](https://doi.org/10.1109/ICCD65941.2025.00098)**, by **Feng-Jie Chao and Yung-Chih Chen**, *ICCD 2025*, pp. 646-653.
 
-This repository provides the companion implementation for:
+Maintained by [Advanced Logic Design Automation Lab (ALDA)](https://sites.google.com/view/ntust-alda), National Taiwan University of Science and Technology.
 
-> **[Decomposition Attack on Structural Logic Locking of Reversible Circuits](https://doi.org/10.1109/ICCD65941.2025.00098)**
->
-> **Feng-Jie Chao and Yung-Chih Chen**
->
-> *2025 IEEE 43rd International Conference on Computer Design (ICCD)*, pp. 646-653, 2025.
->
-> DOI: `10.1109/ICCD65941.2025.00098`
+## Install
 
-It includes the RevC-Lock reimplementation, the paper's Decomposition Attack, and the Control Obfuscation defense. The implementation and its third-party notices are retained under `_internal/`.
-
-Use this guide and the three entry points: `setup.py`, `revc-tool`, and `reproduce.py`.
-
-## 1. Install
-
-Use 64-bit glibc Linux. Install the system build tools on Ubuntu/Debian:
+Use 64-bit glibc Linux; clean installation has been tested on Ubuntu 20.04 and Ubuntu 22.04. Run all commands below from the extracted repository's root directory.
 
 ```bash
 sudo apt-get update
@@ -28,70 +16,49 @@ python3 setup.py
 python3 revc-tool doctor
 ```
 
-The installer fetches fixed upstream versions, builds the native tools and runs tests. Python needs no pip packages. Offline source-cache setup is available as `python3 setup.py --cache-root /path/to/cirkit`.
+Setup downloads pinned source dependencies, compiles the tools, and runs the tests. No Python pip packages are required.
 
-## 2. Use the three functions
+## Use
 
 ```bash
-# RevC-Lock encryption
+# RevC-Lock reimplementation
 python3 revc-tool lock examples/demo.real outputs/locked.real
 
 # Decomposition Attack
 python3 revc-tool attack outputs/locked.real outputs/recovered.real
 
-# Verify the recovered circuit
+# Check the recovered circuit against the original
 python3 revc-tool verify examples/demo.real outputs/recovered.real
 
-# Control Obfuscation defense, applied to the original circuit
+# Control Obfuscation defense: start from the original circuit
 python3 revc-tool defend examples/demo.real outputs/defended.real
 ```
 
-Replace `examples/demo.real` with your original `.real` circuit. Each operation writes to the output path you specify. Existing files are preserved; use `--force` to overwrite. `attack --reference ORIGINAL.real` also performs the equivalence check. `--json` provides structured output.
+Replace `examples/demo.real` with your original `.real` circuit. Existing output files are preserved; use `--force` to replace one. See the [usage guide](docs/USAGE.md) for supported circuits, options, and troubleshooting.
 
-## 3. Reproduce Table I
+## Reproduce Table I
 
 ```bash
 python3 reproduce.py
 ```
 
-This obtains the 11 RevLib input circuits, verifies their archived SHA-256 values, runs both encryption modes and the attack, and compares against the paper. Results are written to `outputs/iccd-table1/comparison.csv` and `summary.json`.
+This downloads and verifies the 11 RevLib inputs, runs both locking modes and the attack, and compares counts, circuit hashes, and equivalence outcomes with the archived baseline. Results are written to `outputs/iccd-table1/comparison.csv` and `summary.json`.
 
-If you have the original research ZIP, use the tested offline data-import path:
+The clean Ubuntu 22.04 Docker test passed all 11 cases and matched all 22 encrypted-circuit hashes. A separate archived-input validation passed all 245 cases in both modes. CPU timings vary by machine. See the [validation record](_internal/validation/VALIDATION.md) for the exact scope and evidence.
 
-```bash
-python3 reproduce.py --from-archive /path/to/original-research.zip
-```
+## Research attribution
 
-For all 245 inputs add `--suite all` and select a fresh `--output`. To continue an interrupted run, add `--resume`.
-
-## Where things are
-
-| Item | Purpose |
+| Implementation | Research source |
 | --- | --- |
-| `setup.py` | Install and build once |
-| `revc-tool` | Run `lock`, `attack`, `defend`, or `verify` |
-| `reproduce.py` | Fetch or import inputs and reproduce the paper results |
-| `examples/` | Small demonstration circuit |
-| `outputs/` | Generated results; created when commands run |
-| `_internal/` | Implementation, pinned dependencies, tests, attribution, and validation |
+| `lock`: RevC-Lock reimplementation and experimental baseline | Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu, [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550), ETS 2019, pp. 1-6 |
+| `attack`: Decomposition Attack | Feng-Jie Chao and Yung-Chih Chen, ICCD 2025 paper linked above |
+| `defend`: Control Obfuscation | Feng-Jie Chao and Yung-Chih Chen, ICCD 2025 paper linked above |
 
-The algorithm, dependency versions and acceptance baseline are unchanged. The original preparation validated 245 cases in both encryption modes and matched all 490 encrypted files byte-for-byte; see [validation](_internal/validation/VALIDATION.md). CPU timings vary by machine.
+RevC-Lock is credited to its original authors. The source provenance and upstream adaptations are recorded in [AUTHORS.md](_internal/AUTHORS.md) and [ADAPTATIONS.md](_internal/provenance/ADAPTATIONS.md).
 
-Copyright (c) 2026 Advanced Logic Design Automation Lab (ALDA), NTUST. Laboratory-owned code is distributed under the [MIT License](LICENSE). Paper authors and original research contributions are credited in [AUTHORS.md](_internal/AUTHORS.md). Third-party code retains its original licenses and notices; see [third-party notices](_internal/THIRD_PARTY_NOTICES.md). RevLib benchmark data are obtained separately and are not assigned the laboratory software license.
+## Citation and license
 
-On 2026-11-02 the supplied implementation passed a clean Ubuntu 22.04 Docker test with online installation, all six pinned GitHub dependencies and all 11 RevLib Table I inputs downloaded from their upstream sources. All cases passed and all 22 encrypted-file checksums matched. See the [Docker report](_internal/validation/docker_online_report.md). GitHub Actions execution is separate from this Docker evidence. Changed benchmark content is rejected by checksum verification.
-
-## Related research
-
-The `lock` command is a research reimplementation of **RevC-Lock**, introduced in:
-
-> **Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu.** [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550). *2019 IEEE European Test Symposium (ETS)*, pp. 1-6, 2019. DOI: `10.1109/ETS.2019.8791550`.
-
-RevC-Lock is the earlier locking method used as the experimental baseline. The `attack` command implements Decomposition Attack, and `defend` implements Control Obfuscation, from Chao and Chen's ICCD 2025 paper identified above. The earlier RevC-Lock method is credited to its original authors.
-
-## Citation
-
-If you use this implementation in research, please cite the associated paper:
+If you use this implementation in research, please cite:
 
 ```bibtex
 @inproceedings{chao2025decomposition,
@@ -104,6 +71,14 @@ If you use this implementation in research, please cite the associated paper:
 }
 ```
 
-The same paper is recorded in [CITATION.cff](CITATION.cff). The research contributions and upstream tools are credited separately in [AUTHORS.md](_internal/AUTHORS.md) and [THIRD_PARTY_NOTICES.md](_internal/THIRD_PARTY_NOTICES.md).
+[CITATION.cff](CITATION.cff) also records the paper and the original RevC-Lock reference. Laboratory-owned code is copyright (c) 2026 Advanced Logic Design Automation Lab (ALDA), NTUST, and distributed under the [MIT License](LICENSE). Third-party files retain their original licenses and copyright notices; see [third-party notices](_internal/THIRD_PARTY_NOTICES.md).
 
-Developers can enter `_internal/` and use the [technical README](_internal/README.md), build configuration, and maintenance scripts.
+RevLib inputs are downloaded separately and are not assigned the laboratory software license. The bundled demo was written for this package.
+
+## Further information
+
+- [Usage and troubleshooting](docs/USAGE.md)
+- [Maintainer guide](docs/MAINTENANCE.md)
+- [Validation results](_internal/validation/VALIDATION.md)
+
+Report problems through this repository's Issues page, including the command, environment, and error output.

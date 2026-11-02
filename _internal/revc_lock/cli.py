@@ -50,7 +50,7 @@ def main(argv=None):
 
 
 def _common(parser):
-    parser.add_argument('--build-dir', type=Path, help='Native build directory (default: project/build)')
+    parser.add_argument('--build-dir', type=Path, help='Native build directory (default: _internal/build)')
     parser.add_argument('--timeout', type=float, default=120)
     parser.add_argument('--json', action='store_true')
     parser.add_argument('--log-dir', type=Path)

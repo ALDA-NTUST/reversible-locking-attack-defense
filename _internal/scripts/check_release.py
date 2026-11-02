@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source boundaries and verification; report unfinished license attribution."""
+"""Check validated source, package integrity, attribution, and mirrored notices."""
 from pathlib import Path
 import argparse
 import hashlib
@@ -36,6 +36,24 @@ def main():
             path = ROOT / name
             if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest() != expected:
                 problems.append('Source changed since validation: ' + name)
+    if ROOT.name == '_internal':
+        repository = ROOT.parent
+        manifest = ROOT / 'USER_PACKAGE_MANIFEST.json'
+        if not manifest.is_file():
+            problems.append('Missing package manifest')
+        else:
+            for name, expected in json.loads(manifest.read_text()).items():
+                relative = Path(name)
+                if relative.is_absolute() or '..' in relative.parts:
+                    problems.append('Unsafe package manifest path: ' + name)
+                    continue
+                path = repository / relative
+                if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest() != expected:
+                    problems.append('Package file is missing or changed: ' + name)
+        for name in ['LICENSE', 'CITATION.cff', 'examples/demo.real']:
+            public, internal = repository / name, ROOT / name
+            if not public.is_file() or not internal.is_file() or public.read_bytes() != internal.read_bytes():
+                problems.append('Root and internal copies differ: ' + name)
     license_text = (ROOT / 'LICENSE').read_text()
     license_pending = any(marker in license_text for marker in ['LICENSE TERMS NOT SELECTED', 'COPYRIGHT HOLDER NOT CONFIRMED'])
     if license_pending and not args.technical_only:

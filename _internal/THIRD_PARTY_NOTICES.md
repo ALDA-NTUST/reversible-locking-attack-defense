@@ -21,4 +21,4 @@ RevLib input data are separately attributed in `experiments/iccd/benchmarks.json
 
 Research attribution: RevC-Lock was introduced by Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu, [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550), ETS 2019, pp. 1-6. This project provides a research reimplementation of that baseline. The supplied ICCD manuscript describes the reimplementation, Decomposition Attack and Control Obfuscation. CirKit/RevKit, EXORCISM, MiniSat and RevLib should also be credited in research using them.
 
-Before distributing precompiled executables or container images, review the complete selected binary and system-library distribution requirements. This candidate supplies source and a Docker recipe, not a prebuilt image or externally published binary.
+Before distributing precompiled executables or container images, review the complete selected binary and system-library distribution requirements. This repository distributes source and verification records; it does not distribute a prebuilt image or executable.

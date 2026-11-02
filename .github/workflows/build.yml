@@ -17,4 +17,4 @@ jobs:
       - name: Build and test the user entry point
         run: python3 setup.py --jobs 2
       - name: Check implementation and source notices
-        run: python3 _internal/scripts/check_release.py --technical-only
+        run: python3 _internal/scripts/check_release.py

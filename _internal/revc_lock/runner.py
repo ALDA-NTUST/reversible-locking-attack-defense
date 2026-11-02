@@ -59,7 +59,7 @@ def operate(mode, input_path, output_path=None, reference=None, build_dir=None,
     required = [native] + ([minisat] if mode == 'verify' or reference else [])
     for binary in required:
         if not binary.is_file() or not os.access(str(binary), os.X_OK):
-            raise ValueError('Missing executable {}. Run python3 scripts/setup.py'.format(binary))
+            raise ValueError('Missing executable {}. Run python3 setup.py from the repository root.'.format(binary))
     # EXORCISM scratch files use cwd; a subprocess per request also isolates its
     # global state and C rand() seed. No shell command contains user paths.
     with tempfile.TemporaryDirectory(prefix='revc-job-') as temporary:
