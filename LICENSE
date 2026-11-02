@@ -1,0 +1,17 @@
+PROJECT LICENSE STATUS: MIT SELECTED; COPYRIGHT HOLDER NOT CONFIRMED
+
+The laboratory user has confirmed the original developer's agreement to
+laboratory publication of the three legacy research functions. On 2026-11-02
+the user selected MIT for laboratory-owned code and laboratory-account
+maintenance. The exact copyright holder and years remain to be confirmed.
+
+This file is a preparation-status notice, not the final MIT license grant.
+It will be replaced with the selected MIT text after accurate attribution.
+See PUBLICATION_STATUS.md (or docs/PUBLICATION_STATUS.md in _internal).
+
+Third-party code remains under its original licenses. In particular, the
+CirKit ESOP adaptations retain their original MIT copyright and permission
+notices. See _internal/THIRD_PARTY_NOTICES.md and _internal/licenses/ at the
+repository root, or THIRD_PARTY_NOTICES.md and licenses/ within _internal.
+Neither the laboratory account nor the selected project license replaces
+those notices or licenses any third-party benchmark data.

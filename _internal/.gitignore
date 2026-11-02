@@ -1,0 +1,12 @@
+.deps/
+build*/
+data/
+outputs/
+__pycache__/
+*.py[cod]
+.venv/
+*.o
+*.so
+*.a
+*.zip
+.DS_Store

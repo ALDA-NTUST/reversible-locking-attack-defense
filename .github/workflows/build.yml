@@ -1,0 +1,20 @@
+name: Build and CLI tests
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  linux:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake g++ make python3 libboost-filesystem-dev libboost-system-dev zlib1g-dev
+      - name: Build and test the user entry point
+        run: python3 setup.py --jobs 2
+      - name: Check implementation and source notices
+        run: python3 _internal/scripts/check_release.py --technical-only

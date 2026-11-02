@@ -1,0 +1,19 @@
+{
+  "all_passed": true,
+  "online_dependency_download": true,
+  "online_benchmark_download": true,
+  "table1": {
+    "suite": "table1",
+    "cases": 11,
+    "passed": 11,
+    "all_passed": true,
+    "python": "3.10.12",
+    "platform": "Linux-5.4.0-208-generic-x86_64-with-glibc2.35",
+    "completed_at": "2026-11-02T04:46:19.347009+00:00",
+    "native_sha256": "8000216e788dfab302e829be9a584c76f760a3e501080922144468423b5d2660",
+    "minisat_sha256": "982cc1ad85826bc327ef5fe74a970b2ad675a906573e4ffdafcd6f088f841087",
+    "timing_note": "Fresh CPU times are hardware dependent; timing equality is not an acceptance criterion."
+  },
+  "encrypted_files_matched": 22,
+  "timing_note": "CPU timings are measured, not required to equal paper timings."
+}

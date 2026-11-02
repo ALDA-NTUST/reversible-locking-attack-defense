@@ -1,0 +1,26 @@
+{
+  "cirkit": {
+    "url": "https://github.com/msoeken/cirkit.git",
+    "commit": "8a098dae1f09f9e8af6e132b1fa76f05948689ed"
+  },
+  "abc": {
+    "url": "https://github.com/msoeken/abc.git",
+    "commit": "8a7293ce2ee021eb1c51c0b48a0a602c46c936fb"
+  },
+  "kitty": {
+    "url": "https://github.com/msoeken/kitty.git",
+    "commit": "77303a0402b07faf1e7c2bdb867f19aadc5ce49c"
+  },
+  "minisat": {
+    "url": "https://github.com/msoeken/minisat.git",
+    "commit": "01fae76b900ed3b6c90635dad5ba536475c8a52a"
+  },
+  "cudd": {
+    "url": "https://github.com/msoeken/cudd-1.git",
+    "commit": "c2c820e1f4bb1554adeb14c77551dbd7a7c8140b"
+  },
+  "fmt": {
+    "url": "https://github.com/fmtlib/fmt.git",
+    "commit": "398343897f98b88ade80bbebdcbe82a36c65a980"
+  }
+}

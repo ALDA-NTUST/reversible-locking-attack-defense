@@ -1,0 +1,12 @@
+{
+  "recorded_date": "2026-10-31",
+  "publication_permission": "confirmed_by_laboratory_user",
+  "scope": "Public release by the laboratory of the original developer's three legacy research functions: RevC-Lock reimplementation, attack, and defense.",
+  "user_confirmation": "The developer is a senior member of the same laboratory and has confirmed that the laboratory can publish these functions.",
+  "project_license_terms": "MIT_selected_pending_copyright_attribution",
+  "third_party_scope": "This confirmation does not change upstream software licenses or establish RevLib data redistribution terms.",
+  "selected_license_date": "2026-11-02",
+  "copyright_holder": null,
+  "maintainer_github_account": "ALDA-NTUST",
+  "repository": "https://github.com/ALDA-NTUST/reversible-locking-attack-defense"
+}

@@ -1,0 +1,12 @@
+{
+  "suite": "table1",
+  "cases": 11,
+  "passed": 11,
+  "all_passed": true,
+  "python": "3.6.15",
+  "platform": "Linux-5.4.0-208-generic-x86_64-with-debian-bullseye-sid",
+  "completed_at": "2026-10-31T17:24:05.987369+08:00",
+  "native_sha256": "8798bece9fabfac5a4b12f6337760790d3228e00cf9dab543bbfb582b1aa4f1d",
+  "minisat_sha256": "9e3ab0ef42f9e18e34e5f7563af117819f7d0df5df50a9e83ba5216e5a7c9894",
+  "timing_note": "Fresh CPU times are hardware dependent; timing equality is not an acceptance criterion."
+}

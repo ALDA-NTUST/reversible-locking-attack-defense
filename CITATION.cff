@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the original manuscript and the upstream tools. Confirm final publication metadata before public release."
+type: software
+title: "Legacy RevC-Lock: ICCD Experiment Reproduction"
+version: 0.1.0
+authors:
+  - family-names: Chao
+    given-names: Feng-Jie
+  - family-names: Chen
+    given-names: Yung-Chih
+preferred-citation:
+  type: unpublished
+  title: "Decomposition Attack on Structural Logic Locking of Reversible Circuits"
+  authors:
+    - family-names: Chao
+      given-names: Feng-Jie
+    - family-names: Chen
+      given-names: Yung-Chih
+repository-code: "https://github.com/ALDA-NTUST/reversible-locking-attack-defense"

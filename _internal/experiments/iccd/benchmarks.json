@@ -1,0 +1,2207 @@
+[
+  {
+    "benchmark": "0410184_169",
+    "filename": "0410184_169.real",
+    "url": "https://www.revlib.org/doc/real/0410184_169.real",
+    "sha256": "c6fb18da23f4dc84de8c64765680c0ca5937941b75a253c499055cb1baf0696f",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "3_17_13",
+    "filename": "3_17_13.real",
+    "url": "https://www.revlib.org/doc/real/3_17_13.real",
+    "sha256": "ec56a7043492163f032afe139cf1d88871b00a29669b1684e9e375c99c017308",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4_49_16",
+    "filename": "4_49_16.real",
+    "url": "https://www.revlib.org/doc/real/4_49_16.real",
+    "sha256": "1bda626e2d035718c04cceb37dda00b1c6f7a6d3842cd4e6ee39526ea26a5c1d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt10-v1_81",
+    "filename": "4gt10-v1_81.real",
+    "url": "https://www.revlib.org/doc/real/4gt10-v1_81.real",
+    "sha256": "ec93d15e35ca6021d1f897d6dd710dcc2e3f955bb751dc2d3154315d73066d5e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt11-v1_85",
+    "filename": "4gt11-v1_85.real",
+    "url": "https://www.revlib.org/doc/real/4gt11-v1_85.real",
+    "sha256": "0f11e2db8821e8f2b8a9f172c01aeffef0a93998ccfc057d4c7aac6348b9f01f",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt11_82",
+    "filename": "4gt11_82.real",
+    "url": "https://www.revlib.org/doc/real/4gt11_82.real",
+    "sha256": "aa55b460d327aec1825049971517484a36aaefba3b68e736be8b6ffd24603c22",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt12-v0_86",
+    "filename": "4gt12-v0_86.real",
+    "url": "https://www.revlib.org/doc/real/4gt12-v0_86.real",
+    "sha256": "8ebc9914911d2962b975fc2b766be35c275e0acd0e88daa08aadb3df990c537b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt12-v1_89",
+    "filename": "4gt12-v1_89.real",
+    "url": "https://www.revlib.org/doc/real/4gt12-v1_89.real",
+    "sha256": "e17df97071e8d66a6c6cec243b32614e6ce2c6f3cfbf0405f448cb185f19a4d2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt13-v1_93",
+    "filename": "4gt13-v1_93.real",
+    "url": "https://www.revlib.org/doc/real/4gt13-v1_93.real",
+    "sha256": "aeef0dec54c049f2dcc472e17a9af0e340ae47d0c273b052fa102707fbb9d882",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt13_90",
+    "filename": "4gt13_90.real",
+    "url": "https://www.revlib.org/doc/real/4gt13_90.real",
+    "sha256": "7aa77ef67176be56ad0f12b26eff8ac1d5a4a625da0ae333dad981558d723b43",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt4-v0_72",
+    "filename": "4gt4-v0_72.real",
+    "url": "https://www.revlib.org/doc/real/4gt4-v0_72.real",
+    "sha256": "f5b251b4dbcf15602dc6fea664df74eb9d4a30e08a586b0000643bca57b18ecd",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt4-v1_74",
+    "filename": "4gt4-v1_74.real",
+    "url": "https://www.revlib.org/doc/real/4gt4-v1_74.real",
+    "sha256": "c2a7661b2a52cc1b5da4eb50163d00568a41589d4f845099ca2cd5b760ad9480",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt5_75",
+    "filename": "4gt5_75.real",
+    "url": "https://www.revlib.org/doc/real/4gt5_75.real",
+    "sha256": "c8c0ff9045d2cad968985b425bfe5f36f4f04906581b523e1d46169e2aa77351",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4gt5_77",
+    "filename": "4gt5_77.real",
+    "url": "https://www.revlib.org/doc/real/4gt5_77.real",
+    "sha256": "2d34ac803ff31a26b70d93f1c88b8b737db4ba13d9f5397f7dbe6a594bdc6893",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-bdd_287",
+    "filename": "4mod5-bdd_287.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-bdd_287.real",
+    "sha256": "b06060632018f74b4d4066705dabb8765c99172cfb95bbff30898b19e096ed13",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-v0_18",
+    "filename": "4mod5-v0_18.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-v0_18.real",
+    "sha256": "7d0471713a2f5d154671dba7b114bb6c6a169808a2285e14c28cc9d69bdb10a5",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-v0_19",
+    "filename": "4mod5-v0_19.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-v0_19.real",
+    "sha256": "d9b52cc9d1b8b9e8b2efe1b4dc1b528b186b831b91b6d8bd2d741f73a9e32e02",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-v0_20",
+    "filename": "4mod5-v0_20.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-v0_20.real",
+    "sha256": "974b100146b9ac96000d3cdddc00bf6264f5d3bf1dd2bfb957cfcff87d64ed6a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-v1_22",
+    "filename": "4mod5-v1_22.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-v1_22.real",
+    "sha256": "315df29cd6949bcf922dd8a8b1aa61c9872633c0217dace022687d999e8aabc7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-v1_23",
+    "filename": "4mod5-v1_23.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-v1_23.real",
+    "sha256": "c49f5e38e78c897f803366160826654402d2365c4ba5e36f338c40a98f363c29",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod5-v1_24",
+    "filename": "4mod5-v1_24.real",
+    "url": "https://www.revlib.org/doc/real/4mod5-v1_24.real",
+    "sha256": "e580a6797d4e8807458ca399bd4fcb87dd274694cfb4609443fa16d8da689d17",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod7-v0_94",
+    "filename": "4mod7-v0_94.real",
+    "url": "https://www.revlib.org/doc/real/4mod7-v0_94.real",
+    "sha256": "819bfd96398671753fdc2d0fc3064da1ae777ee000007e2b4338b5e151d80bd0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod7-v0_95",
+    "filename": "4mod7-v0_95.real",
+    "url": "https://www.revlib.org/doc/real/4mod7-v0_95.real",
+    "sha256": "d5c35bdef39a117d3e2a0c46525fc8485b2cb82f40413a47ac9821eb762d1aa2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "4mod7-v1_96",
+    "filename": "4mod7-v1_96.real",
+    "url": "https://www.revlib.org/doc/real/4mod7-v1_96.real",
+    "sha256": "3311f344cf2c322ec8a57c1e7533702cffa2e72db51a05a00bab0fa19a1bafe6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "5xp1_194",
+    "filename": "5xp1_194.real",
+    "url": "https://www.revlib.org/doc/real/5xp1_194.real",
+    "sha256": "34da17b3724306cdb623c750ff1edbc2ae2e6501948514ae81a7242b90fe1822",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "9symml_195",
+    "filename": "9symml_195.real",
+    "url": "https://www.revlib.org/doc/real/9symml_195.real",
+    "sha256": "b99a52490e3d74e338cbffc7d0a2472a070df801cb0620ddf42220604adf69d8",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "C17_204",
+    "filename": "C17_204.real",
+    "url": "https://www.revlib.org/doc/real/C17_204.real",
+    "sha256": "5585ac12698cc491b155ee4b4ad0875ccace60d4a4718883a3a4b4c33a7f5f99",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "C7552_205",
+    "filename": "C7552_205.real",
+    "url": "https://www.revlib.org/doc/real/C7552_205.real",
+    "sha256": "911a8ea85129974fff48d09f91157613c0f960ea4e14469823fb75dac42df75e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "add16_174",
+    "filename": "add16_174.real",
+    "url": "https://www.revlib.org/doc/real/add16_174.real",
+    "sha256": "f7065bbd9658cb18948700f60aae6336701a38062d26ab4ba417a52ae1147d8c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "add32_183",
+    "filename": "add32_183.real",
+    "url": "https://www.revlib.org/doc/real/add32_183.real",
+    "sha256": "67036368b7467fe2bc0b3a4333cdbbaa0a551e8fd643236a53698b758e7fa5fd",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "add64_184",
+    "filename": "add64_184.real",
+    "url": "https://www.revlib.org/doc/real/add64_184.real",
+    "sha256": "712f1edf37bbf700a5b0b6bc206a8a486d72bf565cdc9c0dd111d278d1d52d74",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "add6_196",
+    "filename": "add6_196.real",
+    "url": "https://www.revlib.org/doc/real/add6_196.real",
+    "sha256": "395cd4eb5c44e32fdefb0cdcafba0254b5b047841ffa0a0829e0c6608fd4d3a9",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "add8_172",
+    "filename": "add8_172.real",
+    "url": "https://www.revlib.org/doc/real/add8_172.real",
+    "sha256": "528e2c01ef0dd4ec40413fac4aa68292b9b9da59a0bb87ea336c4e9211716be3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "adr4_197",
+    "filename": "adr4_197.real",
+    "url": "https://www.revlib.org/doc/real/adr4_197.real",
+    "sha256": "018cc8a8c70b9d886471e70124daa6755dc874b364dd0e0c990fe7cc98bb9699",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "aj-e11_165",
+    "filename": "aj-e11_165.real",
+    "url": "https://www.revlib.org/doc/real/aj-e11_165.real",
+    "sha256": "e9b45e3e4a0314ca9f1a50aa2b9fb9e185ed8d8958f8f0572f5b3c5dbd59a516",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "aj-e11_168",
+    "filename": "aj-e11_168.real",
+    "url": "https://www.revlib.org/doc/real/aj-e11_168.real",
+    "sha256": "336f0dfd4a63b3b5150f3ee80d486cba75cc880945992adbd4a9b9002b4a92ed",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-bdd_288",
+    "filename": "alu-bdd_288.real",
+    "url": "https://www.revlib.org/doc/real/alu-bdd_288.real",
+    "sha256": "ca6262b23e95c906d161414de6df413c2469fb1dad289b017083711329713722",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v0_26",
+    "filename": "alu-v0_26.real",
+    "url": "https://www.revlib.org/doc/real/alu-v0_26.real",
+    "sha256": "d8308e3c53721bf7ba1950d72a4045fa14785083b807d9265ace01e131aa2a94",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v0_27",
+    "filename": "alu-v0_27.real",
+    "url": "https://www.revlib.org/doc/real/alu-v0_27.real",
+    "sha256": "143f8d706560a5dd8fb1eac21edce99425ec79772ef94b8de3d36722321a1177",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v1_28",
+    "filename": "alu-v1_28.real",
+    "url": "https://www.revlib.org/doc/real/alu-v1_28.real",
+    "sha256": "aa779c19e454ca89745595f453a5061bb8546b572001018d7d60751461703a5e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v1_29",
+    "filename": "alu-v1_29.real",
+    "url": "https://www.revlib.org/doc/real/alu-v1_29.real",
+    "sha256": "73a962d33cbb35f1f844d772e71c3afe257f98ee8b90d256d49d7ee642aa8d78",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v2_30",
+    "filename": "alu-v2_30.real",
+    "url": "https://www.revlib.org/doc/real/alu-v2_30.real",
+    "sha256": "ad98ccfe1b861fd81fab4776f5957ceebcd54637f43e652af37908147a835332",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v2_31",
+    "filename": "alu-v2_31.real",
+    "url": "https://www.revlib.org/doc/real/alu-v2_31.real",
+    "sha256": "f9a369305200bb03c62dffb609351b638eb35b4bedb16245a70a534f3c0915c7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v2_32",
+    "filename": "alu-v2_32.real",
+    "url": "https://www.revlib.org/doc/real/alu-v2_32.real",
+    "sha256": "558b43b8514bc186200eda93252f247aa94e4fe5f180ef0fc4e4c3f9e26c27b6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v2_33",
+    "filename": "alu-v2_33.real",
+    "url": "https://www.revlib.org/doc/real/alu-v2_33.real",
+    "sha256": "3cb33ad37eb715de0ebb87528a41e49ba7fb6784cf1d0ca1be76855d7bb053da",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v3_34",
+    "filename": "alu-v3_34.real",
+    "url": "https://www.revlib.org/doc/real/alu-v3_34.real",
+    "sha256": "08d6c261d6085ae5a0afd98412dea579a656c122f6e27925666a83d92a98fce8",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v3_35",
+    "filename": "alu-v3_35.real",
+    "url": "https://www.revlib.org/doc/real/alu-v3_35.real",
+    "sha256": "ae6c6a85fbbd34cc3962eee3e1281fde6481f910ccfbeaadcca44d109c21192a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v4_36",
+    "filename": "alu-v4_36.real",
+    "url": "https://www.revlib.org/doc/real/alu-v4_36.real",
+    "sha256": "5a49b4497cd1d6093f04710cc66d501360e2791b6cf2fcaf6d3cabba7ec3042c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu-v4_37",
+    "filename": "alu-v4_37.real",
+    "url": "https://www.revlib.org/doc/real/alu-v4_37.real",
+    "sha256": "d6df63b38e78e6954e0cbe08b56332d0b6819d067bb196d3e153382e0a564de7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu1_198",
+    "filename": "alu1_198.real",
+    "url": "https://www.revlib.org/doc/real/alu1_198.real",
+    "sha256": "e544c5a615a01fb6481f7a8fefcbef279e2eb0334f89ed7b2d1f0c18f570cb9b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu2_199",
+    "filename": "alu2_199.real",
+    "url": "https://www.revlib.org/doc/real/alu2_199.real",
+    "sha256": "358208e3e44d098f7f2436598889069f891e5435a328d816b66e134d6d42fe14",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu3_200",
+    "filename": "alu3_200.real",
+    "url": "https://www.revlib.org/doc/real/alu3_200.real",
+    "sha256": "f5e59dbf8afe4f07278bbd4bfa9d7262b14def31e08bf0d9e9e30950497a14d1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "alu4_201",
+    "filename": "alu4_201.real",
+    "url": "https://www.revlib.org/doc/real/alu4_201.real",
+    "sha256": "2415e158dc38cf3bd6164c6a50ae13a6449f483f809569e748aef66742198779",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "apex4_202",
+    "filename": "apex4_202.real",
+    "url": "https://www.revlib.org/doc/real/apex4_202.real",
+    "sha256": "3f84d58af2b829fdec48cec42730fc27f7d377409428ed673513e99ca2adee42",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "apla_203",
+    "filename": "apla_203.real",
+    "url": "https://www.revlib.org/doc/real/apla_203.real",
+    "sha256": "9a0a8fa57d91016860691f1a27b19ab27b2d26c10eacfcf25f778eb10346633b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "arb8_323",
+    "filename": "arb8_323.real",
+    "url": "https://www.revlib.org/doc/real/arb8_323.real",
+    "sha256": "85a9911eb2ad67d9466fc6c9cb7082a4040ae0d9f87d9d31d440347cd0176159",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "bw_291",
+    "filename": "bw_291.real",
+    "url": "https://www.revlib.org/doc/real/bw_291.real",
+    "sha256": "9cec53fb35da59709ea2ba6ca7a9ed2581d2a7ffbf4a9699e6afe4396b70c931",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "c2_181",
+    "filename": "c2_181.real",
+    "url": "https://www.revlib.org/doc/real/c2_181.real",
+    "sha256": "965fd5b77e0dc61fa73c4ab5969f47f28be567e2336ed8b405c98d741a6246cd",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "clip_206",
+    "filename": "clip_206.real",
+    "url": "https://www.revlib.org/doc/real/clip_206.real",
+    "sha256": "8277e0726865d31b7388acf9dec7d58eb6941d85575fa073d41b84dcfd037d76",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm150a_210",
+    "filename": "cm150a_210.real",
+    "url": "https://www.revlib.org/doc/real/cm150a_210.real",
+    "sha256": "f1ca51951884ea8a06ec951203a8014cb593c780eab3f396f3aa3863a959fdfe",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm151a_211",
+    "filename": "cm151a_211.real",
+    "url": "https://www.revlib.org/doc/real/cm151a_211.real",
+    "sha256": "c3edd472eb21d157ee4c81135b7e1f7a15709174ef5393fc64168921a69d7ef3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm152a_212",
+    "filename": "cm152a_212.real",
+    "url": "https://www.revlib.org/doc/real/cm152a_212.real",
+    "sha256": "8c7d1cb246e3de7891f5cec1c7f0e7e3c76d8331770d67f3b52f1d4da30fe7a1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm163a_213",
+    "filename": "cm163a_213.real",
+    "url": "https://www.revlib.org/doc/real/cm163a_213.real",
+    "sha256": "f560cdb79d03987b91919e63b2a487409d7e26f7ab93b09c9522bda6b6f9fffa",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm42a_207",
+    "filename": "cm42a_207.real",
+    "url": "https://www.revlib.org/doc/real/cm42a_207.real",
+    "sha256": "a48289983bf372b22e09db1ec34f7b14d0e3f2ab8b23e221db9300a51735e33c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm82a_208",
+    "filename": "cm82a_208.real",
+    "url": "https://www.revlib.org/doc/real/cm82a_208.real",
+    "sha256": "2b5c067c57fba17e98fef531d16e0412d46ea2c25a161e01f52850754efd30c9",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cm85a_209",
+    "filename": "cm85a_209.real",
+    "url": "https://www.revlib.org/doc/real/cm85a_209.real",
+    "sha256": "008d1559bccba0a7122fc1a5fc7eef58c9bda934c379c20f8a54b6c46b1690b6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cmb_214",
+    "filename": "cmb_214.real",
+    "url": "https://www.revlib.org/doc/real/cmb_214.real",
+    "sha256": "39c34e5dcd52e6e82a2014be6a713680da889b6c7b1aeeb9bf80530242d72189",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cnt3-5_179",
+    "filename": "cnt3-5_179.real",
+    "url": "https://www.revlib.org/doc/real/cnt3-5_179.real",
+    "sha256": "f5b529de81f4d1f5f301640077f2ec148c4b8baf67509444b89e1f96b546dec1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cnt3-5_180",
+    "filename": "cnt3-5_180.real",
+    "url": "https://www.revlib.org/doc/real/cnt3-5_180.real",
+    "sha256": "e767e2b0757f699ea21626a4ebe2361684e5355ed4204af8c2fc612a1a3dd9eb",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "co14_215",
+    "filename": "co14_215.real",
+    "url": "https://www.revlib.org/doc/real/co14_215.real",
+    "sha256": "b4fa0ab7c7b4e7e2987bccfbcd9bd5e46d76c2df0d994b44e715953f99900d00",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "con1_216",
+    "filename": "con1_216.real",
+    "url": "https://www.revlib.org/doc/real/con1_216.real",
+    "sha256": "792a4e93bcc147b9026de6fd677e967b225edfedb927d47ab5074b36f1bcc752",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cordic_218",
+    "filename": "cordic_218.real",
+    "url": "https://www.revlib.org/doc/real/cordic_218.real",
+    "sha256": "829d028fe70b4bed8963100e50a06e26fedec1b4dba6fe7281e2528c1947b3f4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cu_219",
+    "filename": "cu_219.real",
+    "url": "https://www.revlib.org/doc/real/cu_219.real",
+    "sha256": "0be10801264f635dc7418f0cdfc15b510698ed6105b3ec3df3d1edbcc7856e52",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cycle10_293",
+    "filename": "cycle10_293.real",
+    "url": "https://www.revlib.org/doc/real/cycle10_293.real",
+    "sha256": "a6fa771d8e70649d18a51016d849e42781f388e3ecb612ad3f16809c7ee1e144",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cycle10_2_110",
+    "filename": "cycle10_2_110.real",
+    "url": "https://www.revlib.org/doc/real/cycle10_2_110.real",
+    "sha256": "472ff3930197607a03b1e21a1168a1f61a0ed8acc07cbcb678a55cf740dacef0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "cycle17_3_112",
+    "filename": "cycle17_3_112.real",
+    "url": "https://www.revlib.org/doc/real/cycle17_3_112.real",
+    "sha256": "53137e8b2e0465fa9f128117d11746957512c2633e12396160467a814f1c722c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "dc1_220",
+    "filename": "dc1_220.real",
+    "url": "https://www.revlib.org/doc/real/dc1_220.real",
+    "sha256": "bfc63c0b7a3c5ab38380ea3a17f666e3b85039df4d9b80457e844f51f64e12c6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "dc1_221",
+    "filename": "dc1_221.real",
+    "url": "https://www.revlib.org/doc/real/dc1_221.real",
+    "sha256": "bfc63c0b7a3c5ab38380ea3a17f666e3b85039df4d9b80457e844f51f64e12c6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "dc2_222",
+    "filename": "dc2_222.real",
+    "url": "https://www.revlib.org/doc/real/dc2_222.real",
+    "sha256": "c1a857934d234ebdeed8ee8931bd03fb0cae3befa09a0aa189e42f66063edffb",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-bdd_294",
+    "filename": "decod24-bdd_294.real",
+    "url": "https://www.revlib.org/doc/real/decod24-bdd_294.real",
+    "sha256": "923db774f8cecac9e4459892eb745ed78348dace8d186029518ae1e4371cedba",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-enable_125",
+    "filename": "decod24-enable_125.real",
+    "url": "https://www.revlib.org/doc/real/decod24-enable_125.real",
+    "sha256": "64c3c0cb1c56f21134b560ef7f4ebd1c6fdff915ae02ac553cfe6c5527ead38c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-enable_126",
+    "filename": "decod24-enable_126.real",
+    "url": "https://www.revlib.org/doc/real/decod24-enable_126.real",
+    "sha256": "b90355f50ff798ec27faeb4bf873d15ed062bfbb77fe36ad1e688d1ee5e4d2c9",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-v0_38",
+    "filename": "decod24-v0_38.real",
+    "url": "https://www.revlib.org/doc/real/decod24-v0_38.real",
+    "sha256": "ff95ef08956e843a95e03eb2b12e7fe21cb3dc51a911a79bef553526d83df8df",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-v1_41",
+    "filename": "decod24-v1_41.real",
+    "url": "https://www.revlib.org/doc/real/decod24-v1_41.real",
+    "sha256": "7d6e9b182e77158739e2dad5c96b75228795b7f191d47b362bafae79c24962e3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-v2_43",
+    "filename": "decod24-v2_43.real",
+    "url": "https://www.revlib.org/doc/real/decod24-v2_43.real",
+    "sha256": "2589f7102001d92e3b88b92bf419ea6c961cf32d55e059653f3ec0f1d60f8ff7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod24-v3_45",
+    "filename": "decod24-v3_45.real",
+    "url": "https://www.revlib.org/doc/real/decod24-v3_45.real",
+    "sha256": "4c65a4ea362418ef9413a3a14923a03b6a4b1acf28796656cc80f79dadd5a9a3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "decod_217",
+    "filename": "decod_217.real",
+    "url": "https://www.revlib.org/doc/real/decod_217.real",
+    "sha256": "b319c9b5a79d295f8c911004c0612108400c7f4dec0bf52743c96f35da3091f6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "dist_223",
+    "filename": "dist_223.real",
+    "url": "https://www.revlib.org/doc/real/dist_223.real",
+    "sha256": "57090b6eccee9058e663d23ceeb0e6a11f9fc1e9458c6df3227ce58185b8e8ec",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "dk17_224",
+    "filename": "dk17_224.real",
+    "url": "https://www.revlib.org/doc/real/dk17_224.real",
+    "sha256": "ff173094b11e70a6d3419bbcf489633634d0b6555d414afe76f905dbf9d315c6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "dk27_225",
+    "filename": "dk27_225.real",
+    "url": "https://www.revlib.org/doc/real/dk27_225.real",
+    "sha256": "edb8f7d7e1bbd520c0d9e4c86bcebb86d29b6a0e1273df1098dc78ba57795f0c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "e64-bdd_295",
+    "filename": "e64-bdd_295.real",
+    "url": "https://www.revlib.org/doc/real/e64-bdd_295.real",
+    "sha256": "b8905bdb45afb46f9ac8d533b3524a03950d477f57a180bbefb838deaf4f700b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex-1_166",
+    "filename": "ex-1_166.real",
+    "url": "https://www.revlib.org/doc/real/ex-1_166.real",
+    "sha256": "7765d3440386a31ca30610c0776bfda07dfd5cbbefa1c51125e727b87d308464",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex1010_230",
+    "filename": "ex1010_230.real",
+    "url": "https://www.revlib.org/doc/real/ex1010_230.real",
+    "sha256": "92cd159b1c32ad0cea2d1b29b8b38d37c5ae0ba82ef9cdf99779a63f17251d7d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex1_226",
+    "filename": "ex1_226.real",
+    "url": "https://www.revlib.org/doc/real/ex1_226.real",
+    "sha256": "7669ac1dcbcee629db77c5b31a9dc9dfbc425d7e725c617643971e05388d8d0a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex2_227",
+    "filename": "ex2_227.real",
+    "url": "https://www.revlib.org/doc/real/ex2_227.real",
+    "sha256": "da075cc1369f034199a815095269763417e4e3254f0d5cc92f2c16ee5000511d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex3_228",
+    "filename": "ex3_228.real",
+    "url": "https://www.revlib.org/doc/real/ex3_228.real",
+    "sha256": "da075cc1369f034199a815095269763417e4e3254f0d5cc92f2c16ee5000511d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex3_229",
+    "filename": "ex3_229.real",
+    "url": "https://www.revlib.org/doc/real/ex3_229.real",
+    "sha256": "d57cdeceb7766c8fa3e636eba02bdf7e5b5a77fd97f6599d1351af418475475c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ex5p_296",
+    "filename": "ex5p_296.real",
+    "url": "https://www.revlib.org/doc/real/ex5p_296.real",
+    "sha256": "6b7b733244993760be22f1017eb10b7dafc555f045800a7c54af22bd3ec76f24",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "example2_231",
+    "filename": "example2_231.real",
+    "url": "https://www.revlib.org/doc/real/example2_231.real",
+    "sha256": "65b5c75722bc5a47cb9b60c09f72194c5a02d2d6ff123731061046f7ddc27cfd",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "f2_232",
+    "filename": "f2_232.real",
+    "url": "https://www.revlib.org/doc/real/f2_232.real",
+    "sha256": "0cdefe5d92810997672fe0414955c6c1e8facd76a2075aa2a0a2ce9ab5c5142b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "f51m_233",
+    "filename": "f51m_233.real",
+    "url": "https://www.revlib.org/doc/real/f51m_233.real",
+    "sha256": "1cb0f2265d52c444aeeb9d41fc00765788e02d5fe08f5e4b76982c57bad76fc2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "fredkin_6",
+    "filename": "fredkin_6.real",
+    "url": "https://www.revlib.org/doc/real/fredkin_6.real",
+    "sha256": "47cbcd20ad1ed2cd8c7168beb2d48d5e6d289ab62b1287897c0415cde6985c55",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "frg1_234",
+    "filename": "frg1_234.real",
+    "url": "https://www.revlib.org/doc/real/frg1_234.real",
+    "sha256": "207712036a0c590330636fe78a4600df606339f048c8d92556d5cb474ed73a1d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "graycode6_47",
+    "filename": "graycode6_47.real",
+    "url": "https://www.revlib.org/doc/real/graycode6_47.real",
+    "sha256": "ac2f815df52ebb1211e7d55085f85165b303cbaefc82e5b4c70eef56079c6882",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "graycode6_48",
+    "filename": "graycode6_48.real",
+    "url": "https://www.revlib.org/doc/real/graycode6_48.real",
+    "sha256": "ac2f815df52ebb1211e7d55085f85165b303cbaefc82e5b4c70eef56079c6882",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham15_107",
+    "filename": "ham15_107.real",
+    "url": "https://www.revlib.org/doc/real/ham15_107.real",
+    "sha256": "d84095991c2dc3cf660f20bf41a160e22e53dac3230ab5f6e1672b34e02be385",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham15_108",
+    "filename": "ham15_108.real",
+    "url": "https://www.revlib.org/doc/real/ham15_108.real",
+    "sha256": "d7d9f44969ac83953de0d78f8fbc8f2e5f7a75ebd6bbb4316e7a18cb7329cf46",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham15_109",
+    "filename": "ham15_109.real",
+    "url": "https://www.revlib.org/doc/real/ham15_109.real",
+    "sha256": "2a5d5144b4a30778bf33b88db5b311ceceb985b1e8dba55df2f26c3975b79149",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham15_298",
+    "filename": "ham15_298.real",
+    "url": "https://www.revlib.org/doc/real/ham15_298.real",
+    "sha256": "ae243e813f4ac5b374b278246fb040d8231debff8950cc9950dcefac5c2592ac",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham3_102",
+    "filename": "ham3_102.real",
+    "url": "https://www.revlib.org/doc/real/ham3_102.real",
+    "sha256": "1bcbc5e587496d2c5b3f4f8571e094ccbf98eedc2665a60109b6b0dfeae6e65e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham7_104",
+    "filename": "ham7_104.real",
+    "url": "https://www.revlib.org/doc/real/ham7_104.real",
+    "sha256": "e7892250041d3452fdea75a413587c8acddb8313e55f2a5f4a425b893bf200f2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham7_105",
+    "filename": "ham7_105.real",
+    "url": "https://www.revlib.org/doc/real/ham7_105.real",
+    "sha256": "f6e10f97e0e058b4bdc7de54186d0139b74073d8a10fbc205aa7f4421b93b3e2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham7_106",
+    "filename": "ham7_106.real",
+    "url": "https://www.revlib.org/doc/real/ham7_106.real",
+    "sha256": "236d5a65efceca8542cbfffdaba4f5eb950aed591f655a24c10665059eec9f3f",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ham7_299",
+    "filename": "ham7_299.real",
+    "url": "https://www.revlib.org/doc/real/ham7_299.real",
+    "sha256": "b55fe44ac26d2aa71e5f45ddf1cee48176a72484cb3447fe1d94f677a01a4727",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb4_49",
+    "filename": "hwb4_49.real",
+    "url": "https://www.revlib.org/doc/real/hwb4_49.real",
+    "sha256": "9fef5741c5d6279b96e8fcc28aa98fcb77e2e26c30397bbaa3e8ac8ba7409c67",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb4_52",
+    "filename": "hwb4_52.real",
+    "url": "https://www.revlib.org/doc/real/hwb4_52.real",
+    "sha256": "1ca79df33e6d22b34f9b3f9b0cfb807043763c4f20d2dab5570c6d717e55f9c2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb5_300",
+    "filename": "hwb5_300.real",
+    "url": "https://www.revlib.org/doc/real/hwb5_300.real",
+    "sha256": "a391c892872fbacf3fb3c78dc70a4696f8c6f6286281cffc2c6f9738859026d2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb5_53",
+    "filename": "hwb5_53.real",
+    "url": "https://www.revlib.org/doc/real/hwb5_53.real",
+    "sha256": "540d3dc12eb3ac7b09865622d13dbca84bdc2e32b318f8e6ff3a184bc9dcd05e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb5_55",
+    "filename": "hwb5_55.real",
+    "url": "https://www.revlib.org/doc/real/hwb5_55.real",
+    "sha256": "0813995dd3f99595b17fd4d82817141d3b92d0f6ef37f1cc6515141219d416ff",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb6_301",
+    "filename": "hwb6_301.real",
+    "url": "https://www.revlib.org/doc/real/hwb6_301.real",
+    "sha256": "1c913e370d7115c356180d5110c1e8aa721e9ebf23bfe1dce1e91cf63c3b1b4c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb6_56",
+    "filename": "hwb6_56.real",
+    "url": "https://www.revlib.org/doc/real/hwb6_56.real",
+    "sha256": "458cffba1623ff50abf2a16983876c5bed2705b8b452011bf12648d08ed6277c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb6_58",
+    "filename": "hwb6_58.real",
+    "url": "https://www.revlib.org/doc/real/hwb6_58.real",
+    "sha256": "33f63e0a64abe17846b3839fc017f87c2318e235c9124479282b9a88fed07c4d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb7_302",
+    "filename": "hwb7_302.real",
+    "url": "https://www.revlib.org/doc/real/hwb7_302.real",
+    "sha256": "7877a639d9346c8f210637ff2d4672183323238eceb9ff25e8374291cff7d851",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb7_59",
+    "filename": "hwb7_59.real",
+    "url": "https://www.revlib.org/doc/real/hwb7_59.real",
+    "sha256": "57e30e4e8a5007d89e6820d0b0b813b7aba37f960f76830051cf4b708702d911",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb7_61",
+    "filename": "hwb7_61.real",
+    "url": "https://www.revlib.org/doc/real/hwb7_61.real",
+    "sha256": "5a46ecf352b7f1d94de6ea67c47368d8798c6549bf6f862f8a20d8b8568cf903",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb7_62",
+    "filename": "hwb7_62.real",
+    "url": "https://www.revlib.org/doc/real/hwb7_62.real",
+    "sha256": "35a8e1288a340fa41b971f1b6784060b44b207cc9b85a12ff1a0f1882cfcb712",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb8_113",
+    "filename": "hwb8_113.real",
+    "url": "https://www.revlib.org/doc/real/hwb8_113.real",
+    "sha256": "71cbaa9f99e85cc6da2e4b959e507441e353a52891edb0422185f95d49860ef0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb8_114",
+    "filename": "hwb8_114.real",
+    "url": "https://www.revlib.org/doc/real/hwb8_114.real",
+    "sha256": "a5fab9409fcc579c32045001ecfbd4e7eae743701e4f996c50866366b00146ca",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb8_116",
+    "filename": "hwb8_116.real",
+    "url": "https://www.revlib.org/doc/real/hwb8_116.real",
+    "sha256": "3d16450ecbd7f7ea4cbe5e3c491fc593707ebb86c97e9b3d66f953e163f456e1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb8_303",
+    "filename": "hwb8_303.real",
+    "url": "https://www.revlib.org/doc/real/hwb8_303.real",
+    "sha256": "e788c49325dcdd295700bd1dbfd893b1d552f57fdb0757ed1ba9bec1f6231340",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb9_119",
+    "filename": "hwb9_119.real",
+    "url": "https://www.revlib.org/doc/real/hwb9_119.real",
+    "sha256": "1349b0771c66750588031148cbdc021a5fd5563fc153337be5922fb3967f4c66",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb9_121",
+    "filename": "hwb9_121.real",
+    "url": "https://www.revlib.org/doc/real/hwb9_121.real",
+    "sha256": "c3e6814aa20955b52a5490372f31951df91ee345663da2d2d8cc0b597ea3a395",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb9_123",
+    "filename": "hwb9_123.real",
+    "url": "https://www.revlib.org/doc/real/hwb9_123.real",
+    "sha256": "42c393550cbfec9b7fab7858e3cbf992323062724915f24dbaa4593d7c080899",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "hwb9_304",
+    "filename": "hwb9_304.real",
+    "url": "https://www.revlib.org/doc/real/hwb9_304.real",
+    "sha256": "47f21b744a0851fef77afb27f6867d1b85a3cd37620f7b045909dd3e4d698618",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "in0_235",
+    "filename": "in0_235.real",
+    "url": "https://www.revlib.org/doc/real/in0_235.real",
+    "sha256": "532f5d505dd7ccc55920a742ea8561356859c68c814f973a45c13996884959a4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "in2_236",
+    "filename": "in2_236.real",
+    "url": "https://www.revlib.org/doc/real/in2_236.real",
+    "sha256": "a13f876a885ee5ec5c76b3c8f4026daf9c5d5cdffb5cc423c7e31884d709999c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "inc_237",
+    "filename": "inc_237.real",
+    "url": "https://www.revlib.org/doc/real/inc_237.real",
+    "sha256": "20ab10906a308e8cd57aa16e50ee763edc79f778b5edbee66af6395275cdf013",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "life_238",
+    "filename": "life_238.real",
+    "url": "https://www.revlib.org/doc/real/life_238.real",
+    "sha256": "6cb25651b619bba4172561284204a9505f72dd68aa1c92b6957abc90ca2a79c0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "lu_327",
+    "filename": "lu_327.real",
+    "url": "https://www.revlib.org/doc/real/lu_327.real",
+    "sha256": "d82a45346ccb00ab9da93195dd5bd68c4eb79ad47b68b24e746da1c495725b80",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "majority_239",
+    "filename": "majority_239.real",
+    "url": "https://www.revlib.org/doc/real/majority_239.real",
+    "sha256": "2279e47de8b73eff81cecec0383e8d83e483356013d57efb1569d2f998f89ae2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "max46_240",
+    "filename": "max46_240.real",
+    "url": "https://www.revlib.org/doc/real/max46_240.real",
+    "sha256": "ec23b290e824fd267afd552a5ac8bb985f2b8e8c635e48b58761fa4442a65bc7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "miller_11",
+    "filename": "miller_11.real",
+    "url": "https://www.revlib.org/doc/real/miller_11.real",
+    "sha256": "93546f69c593efdbfef642f1092093a5dffd2e2771a7dd91cd27ba166c9f5ba6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mini-alu_167",
+    "filename": "mini-alu_167.real",
+    "url": "https://www.revlib.org/doc/real/mini-alu_167.real",
+    "sha256": "8f79fdf9123670b817371bd3d2d4a589e46e522b62c3047c8f83c4d86254bcc0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mini_alu_305",
+    "filename": "mini_alu_305.real",
+    "url": "https://www.revlib.org/doc/real/mini_alu_305.real",
+    "sha256": "9c153efe4da3ef23f18b62557d57eccc25f8f0bcca87236b3c2c628c815e0aed",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "misex1_241",
+    "filename": "misex1_241.real",
+    "url": "https://www.revlib.org/doc/real/misex1_241.real",
+    "sha256": "320bad19b25e63a317e378de2e621c68d25fa401ad487b1c1c83e391a153f39c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "misex3_242",
+    "filename": "misex3_242.real",
+    "url": "https://www.revlib.org/doc/real/misex3_242.real",
+    "sha256": "16c430cdf70fce34e7f4d95e0949d523b18b672e164fc774ee3061fedb702b96",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "misex3c_243",
+    "filename": "misex3c_243.real",
+    "url": "https://www.revlib.org/doc/real/misex3c_243.real",
+    "sha256": "fc5e588d9ba9f3a0a9247bedff3c832b1dad57f3488e6780695addbf6044d96c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "misex3c_244",
+    "filename": "misex3c_244.real",
+    "url": "https://www.revlib.org/doc/real/misex3c_244.real",
+    "sha256": "fc5e588d9ba9f3a0a9247bedff3c832b1dad57f3488e6780695addbf6044d96c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mlp4_245",
+    "filename": "mlp4_245.real",
+    "url": "https://www.revlib.org/doc/real/mlp4_245.real",
+    "sha256": "464c0a9a316c943e1a18b272164efcb438cbcbe53185b34c79f4dbed16a15fc4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod10_171",
+    "filename": "mod10_171.real",
+    "url": "https://www.revlib.org/doc/real/mod10_171.real",
+    "sha256": "58e5243002f64d1edea8c4747e4c33aa2a729aa5b42e1390b4fbe5269fc190b3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod10_176",
+    "filename": "mod10_176.real",
+    "url": "https://www.revlib.org/doc/real/mod10_176.real",
+    "sha256": "54261d14618bcc6e4a31149a4b9ad59810beea432654ed56b5643f63bcb86c8d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5adder_127",
+    "filename": "mod5adder_127.real",
+    "url": "https://www.revlib.org/doc/real/mod5adder_127.real",
+    "sha256": "9c3031ad7ea246311ae2a0aaee3b476162362ecca0cb459520086c6ddb78bb03",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5adder_128",
+    "filename": "mod5adder_128.real",
+    "url": "https://www.revlib.org/doc/real/mod5adder_128.real",
+    "sha256": "9cfb71feabaee6752d8cb5977be3a6905f6ce9c92a5ffae0aacdc50145f0dfa4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5adder_129",
+    "filename": "mod5adder_129.real",
+    "url": "https://www.revlib.org/doc/real/mod5adder_129.real",
+    "sha256": "45eb76c32a93a8f6e4a99ec7a29474f3e209399f821fb24fa9f19b8e446e305e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5adder_306",
+    "filename": "mod5adder_306.real",
+    "url": "https://www.revlib.org/doc/real/mod5adder_306.real",
+    "sha256": "219ed45f47b1550c7883b17c795972d11dd448da5940d56a0bf804b49d592b9c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5d1_63",
+    "filename": "mod5d1_63.real",
+    "url": "https://www.revlib.org/doc/real/mod5d1_63.real",
+    "sha256": "f82c3dab00a6f59f79533f87d88e49512bbe221a6ef49dc822f5903602ecc397",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5d2_64",
+    "filename": "mod5d2_64.real",
+    "url": "https://www.revlib.org/doc/real/mod5d2_64.real",
+    "sha256": "664735b11a2c70e067a0d66d21cbe150d05e007261036c4451844061cb207f37",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5d2_70",
+    "filename": "mod5d2_70.real",
+    "url": "https://www.revlib.org/doc/real/mod5d2_70.real",
+    "sha256": "82fdcbe955eb48f0b359f1692b529e709116f91a4898f4f77732e7e9a0d3377a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5mils_65",
+    "filename": "mod5mils_65.real",
+    "url": "https://www.revlib.org/doc/real/mod5mils_65.real",
+    "sha256": "0732bfc560f46be7e85b57345405a1e4ba3e329d56338b3b03173dfa72bed631",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod5mils_71",
+    "filename": "mod5mils_71.real",
+    "url": "https://www.revlib.org/doc/real/mod5mils_71.real",
+    "sha256": "c9690c5e7b11f1d15a5988be676fa00370ff83bd4680f556bb8fa8ebf36dfd17",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod8-10_177",
+    "filename": "mod8-10_177.real",
+    "url": "https://www.revlib.org/doc/real/mod8-10_177.real",
+    "sha256": "9bd028b556e50b12cbd26629113d5be5160b46fe4b461c7b93a42516cd0e99ee",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mod8-10_178",
+    "filename": "mod8-10_178.real",
+    "url": "https://www.revlib.org/doc/real/mod8-10_178.real",
+    "sha256": "2364da0fed8b0d17f7a2cfb21e7df708defabb1bba8d18279b7931dc616a9edc",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "mux_246",
+    "filename": "mux_246.real",
+    "url": "https://www.revlib.org/doc/real/mux_246.real",
+    "sha256": "a2e22492188d08d91b12191813b13caa39a613454cc4df8bfeeaca5cead2907a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "one-two-three-v0_97",
+    "filename": "one-two-three-v0_97.real",
+    "url": "https://www.revlib.org/doc/real/one-two-three-v0_97.real",
+    "sha256": "b5be5ceba77079371fb1d1e3ac4b6a3fc2838b48e8ed3f62f81b346a337b8811",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "one-two-three-v0_98",
+    "filename": "one-two-three-v0_98.real",
+    "url": "https://www.revlib.org/doc/real/one-two-three-v0_98.real",
+    "sha256": "4080cc23c9da98dd289f6416545ef6df5ea77330339303792b619706c5644395",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "one-two-three-v1_99",
+    "filename": "one-two-three-v1_99.real",
+    "url": "https://www.revlib.org/doc/real/one-two-three-v1_99.real",
+    "sha256": "15a567e517c549bb8aad5156f64f0e09672ddb4800d7896fa80de686928659b7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "one-two-three-v2_100",
+    "filename": "one-two-three-v2_100.real",
+    "url": "https://www.revlib.org/doc/real/one-two-three-v2_100.real",
+    "sha256": "2f6edab5074c37afa0ed28ad14c2dc3da39bed337c5c6f3fd734821e664cb7ec",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "one-two-three-v3_101",
+    "filename": "one-two-three-v3_101.real",
+    "url": "https://www.revlib.org/doc/real/one-two-three-v3_101.real",
+    "sha256": "0e66c7701fe8f53af261042b3764d26cac2198de640eca5bcf016b9ff2d8d8c9",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "parity_247",
+    "filename": "parity_247.real",
+    "url": "https://www.revlib.org/doc/real/parity_247.real",
+    "sha256": "689563f661a00a38cf4097fd168d1f844d040380ce75c6e1f0bc117583ab91d1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "pcler8_248",
+    "filename": "pcler8_248.real",
+    "url": "https://www.revlib.org/doc/real/pcler8_248.real",
+    "sha256": "c08192cd739fb0ab2d82d92e240171981cff7771275e1a50869ffc344e3be3f6",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "peres_9",
+    "filename": "peres_9.real",
+    "url": "https://www.revlib.org/doc/real/peres_9.real",
+    "sha256": "0babd2a9203ff654cb5ec7e0cd9f1b3a2743b48ee1a2bfa77d98567ebeb3839a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "plus127mod8192_162",
+    "filename": "plus127mod8192_162.real",
+    "url": "https://www.revlib.org/doc/real/plus127mod8192_162.real",
+    "sha256": "f5ccff59c8c58843a52c28cdcaaa8069272673fce24a8092fab44a6893fd4e31",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "plus127mod8192_308",
+    "filename": "plus127mod8192_308.real",
+    "url": "https://www.revlib.org/doc/real/plus127mod8192_308.real",
+    "sha256": "5812f8bd95ddf641446edfefe2449b189530af963b79e65c52926737a3dc2926",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "plus63mod4096_163",
+    "filename": "plus63mod4096_163.real",
+    "url": "https://www.revlib.org/doc/real/plus63mod4096_163.real",
+    "sha256": "84600cdb352e818f7586620fa071f4fe0061c920c2c6ce502da25467d1ccb414",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "plus63mod4096_309",
+    "filename": "plus63mod4096_309.real",
+    "url": "https://www.revlib.org/doc/real/plus63mod4096_309.real",
+    "sha256": "50edb54dab6ce868cd4452f98145fd63488fc38773f8887c85327ffaf6bd6203",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "plus63mod8192_164",
+    "filename": "plus63mod8192_164.real",
+    "url": "https://www.revlib.org/doc/real/plus63mod8192_164.real",
+    "sha256": "f1310eecf654835b2048435740f906d53d1d7a271a3af23dad908c96a2ec271d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "plus63mod8192_310",
+    "filename": "plus63mod8192_310.real",
+    "url": "https://www.revlib.org/doc/real/plus63mod8192_310.real",
+    "sha256": "3487c4437aa3325879c13672b02c095b4672f37daebf5ff1abf80ffcbd17c06a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "pm1_249",
+    "filename": "pm1_249.real",
+    "url": "https://www.revlib.org/doc/real/pm1_249.real",
+    "sha256": "f5c2d7f38174e66153354af05f05ac0afb05b28fb031fb0ebf6ccc08b024796e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "radd_250",
+    "filename": "radd_250.real",
+    "url": "https://www.revlib.org/doc/real/radd_250.real",
+    "sha256": "9b09e52057cf30e458b991528dfa032fed17e8c739955cd92abc4cc7bf1cafaa",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd32-v0_66",
+    "filename": "rd32-v0_66.real",
+    "url": "https://www.revlib.org/doc/real/rd32-v0_66.real",
+    "sha256": "aa98c4d8ef642cb613b0490710e5992d5d98b6596a8e4da4e607d189be4e73ce",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd32-v1_68",
+    "filename": "rd32-v1_68.real",
+    "url": "https://www.revlib.org/doc/real/rd32-v1_68.real",
+    "sha256": "554e7d3d7ac2386bed8a1ec864c88a92efc27dada2be193939bb37f297ae418c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd32_270",
+    "filename": "rd32_270.real",
+    "url": "https://www.revlib.org/doc/real/rd32_270.real",
+    "sha256": "ff58247ec25c7f55b665134070a848e10263b4546e169762a7316c950c5675e4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd32_271",
+    "filename": "rd32_271.real",
+    "url": "https://www.revlib.org/doc/real/rd32_271.real",
+    "sha256": "51fb2af737de6762d4a54fb3e2f5deaf7290b2c91142234daf76ead90fdce42e",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd32_272",
+    "filename": "rd32_272.real",
+    "url": "https://www.revlib.org/doc/real/rd32_272.real",
+    "sha256": "40a558e61366f7f9243b96dcbd1da7b3292b5b3c019de232ceba340158caa3ba",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd32_273",
+    "filename": "rd32_273.real",
+    "url": "https://www.revlib.org/doc/real/rd32_273.real",
+    "sha256": "05bad0c1b9d06946c3d36f55eb52364d79d20cd35b3aabb8bdf06fcea841da3c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_130",
+    "filename": "rd53_130.real",
+    "url": "https://www.revlib.org/doc/real/rd53_130.real",
+    "sha256": "ad21ed68afd7212697e4d65be6a005a65c0a895ccef219f8271779443f8cf9f2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_131",
+    "filename": "rd53_131.real",
+    "url": "https://www.revlib.org/doc/real/rd53_131.real",
+    "sha256": "71b880a862564be7e5412b8e08778049dae22d91b6470bc27765f554cd50ede7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_133",
+    "filename": "rd53_133.real",
+    "url": "https://www.revlib.org/doc/real/rd53_133.real",
+    "sha256": "fe32a7910862beff765aa83beecec558c0d7fb2c4f71f16aa6bbc320cd51b8a2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_135",
+    "filename": "rd53_135.real",
+    "url": "https://www.revlib.org/doc/real/rd53_135.real",
+    "sha256": "9cfbbd3395022c51f88cfd9e31a16d65a97699191b6698b24f5b77123fb37ae3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_137",
+    "filename": "rd53_137.real",
+    "url": "https://www.revlib.org/doc/real/rd53_137.real",
+    "sha256": "288345f071c8503cf5d0f52169f98fd2e44a365caa9812f29b25129e05dacc63",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_138",
+    "filename": "rd53_138.real",
+    "url": "https://www.revlib.org/doc/real/rd53_138.real",
+    "sha256": "a2d64d826c04cc0e3b1500e0a41305b26076032bd21d312f32be761d3bff71a9",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_251",
+    "filename": "rd53_251.real",
+    "url": "https://www.revlib.org/doc/real/rd53_251.real",
+    "sha256": "799163d94a77b25086567a960c086084d47ce7f6d09a37bc56e89674b93d0650",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd53_311",
+    "filename": "rd53_311.real",
+    "url": "https://www.revlib.org/doc/real/rd53_311.real",
+    "sha256": "3b99145ec5071abc895fdfe80b1e1c965880aab88bfe932eb4ea112ed683bdb3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd73_140",
+    "filename": "rd73_140.real",
+    "url": "https://www.revlib.org/doc/real/rd73_140.real",
+    "sha256": "e12c18ef3ad2591e602e3694ed4b07fe8f480a87f8934bd4f824023e480a8bf4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd73_252",
+    "filename": "rd73_252.real",
+    "url": "https://www.revlib.org/doc/real/rd73_252.real",
+    "sha256": "68d9e32b759ebcc18c7d3daa218c8069815f8336c00786b1d9370b719e3cecd8",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd73_312",
+    "filename": "rd73_312.real",
+    "url": "https://www.revlib.org/doc/real/rd73_312.real",
+    "sha256": "d638a3187168a8d42107e62b3f825464ba9d47747ff96d336c0eb3866668afa1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd84_142",
+    "filename": "rd84_142.real",
+    "url": "https://www.revlib.org/doc/real/rd84_142.real",
+    "sha256": "6343237254af6788d67acce8f45c0890a6aa129c9b442339cb19f87cc0a68f61",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd84_253",
+    "filename": "rd84_253.real",
+    "url": "https://www.revlib.org/doc/real/rd84_253.real",
+    "sha256": "124a9387bf574ba1c2e5b0b8c7569b6341fcd4fe2099ac8763add8bc0673ee4b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "rd84_313",
+    "filename": "rd84_313.real",
+    "url": "https://www.revlib.org/doc/real/rd84_313.real",
+    "sha256": "87bd3bcf585fa07a08f2d60ab2f2a05f9faa82d18ac2b670eb076e14139764b3",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "root_255",
+    "filename": "root_255.real",
+    "url": "https://www.revlib.org/doc/real/root_255.real",
+    "sha256": "6099f8d157519b596bbcb4b316efe3ae83310a088ba9e9bb85a7a7fe1f9fe911",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "ryy6_256",
+    "filename": "ryy6_256.real",
+    "url": "https://www.revlib.org/doc/real/ryy6_256.real",
+    "sha256": "97fea473081c5531a1c71348e961fd185ea4fe9c6bf0444ce6066d01cff8b02d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sao2_257",
+    "filename": "sao2_257.real",
+    "url": "https://www.revlib.org/doc/real/sao2_257.real",
+    "sha256": "d77069a23ca2c15c0a022871563cb0414134c24fa7b67ae07bb2621a0b41f0fc",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sf_274",
+    "filename": "sf_274.real",
+    "url": "https://www.revlib.org/doc/real/sf_274.real",
+    "sha256": "b52893a9e774128de30282d7eb06af465f62d689fc7d0ad02e79f2d70e83fb6c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sf_275",
+    "filename": "sf_275.real",
+    "url": "https://www.revlib.org/doc/real/sf_275.real",
+    "sha256": "231a4e7e9ff0ee9ee5b2030ab14bf5b8f8b275b4d7c2a585a1bcb60fae1ac7c5",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sf_276",
+    "filename": "sf_276.real",
+    "url": "https://www.revlib.org/doc/real/sf_276.real",
+    "sha256": "dd7ce01b708adc198540062da739138ebaf0ea4c12fb91d6f8d421d5c115047d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sqn_258",
+    "filename": "sqn_258.real",
+    "url": "https://www.revlib.org/doc/real/sqn_258.real",
+    "sha256": "22b8f680fa6a81dd119bc1062c817117e77e1def03f1bb40884027c71997d18b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sqr6_259",
+    "filename": "sqr6_259.real",
+    "url": "https://www.revlib.org/doc/real/sqr6_259.real",
+    "sha256": "a728500a93028768ffe077944b21b84f133d61bebdf9cb8df7f2ca44bd51bae9",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sqrt8_260",
+    "filename": "sqrt8_260.real",
+    "url": "https://www.revlib.org/doc/real/sqrt8_260.real",
+    "sha256": "cb57fca2e8ea5faae85a229b68bfc309d330544d18f606b7aa69b761ad7b60c1",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "squar5_261",
+    "filename": "squar5_261.real",
+    "url": "https://www.revlib.org/doc/real/squar5_261.real",
+    "sha256": "41356dcd43332ced77643ff9f2af25e2d63067c6e174ba1f578454574ed0aa6d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym10_262",
+    "filename": "sym10_262.real",
+    "url": "https://www.revlib.org/doc/real/sym10_262.real",
+    "sha256": "fe550f428dd1040bf22ca833fb5754d3147433fa6247aed70d4c93b662bfd10f",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym6_145",
+    "filename": "sym6_145.real",
+    "url": "https://www.revlib.org/doc/real/sym6_145.real",
+    "sha256": "004dfc48f3a667ecffc8579718c706904c05c541e6a23dfa6b7ca4b94d95614d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym6_316",
+    "filename": "sym6_316.real",
+    "url": "https://www.revlib.org/doc/real/sym6_316.real",
+    "sha256": "ae724d10da94fa41d0664f69f5687df5796986dd35bdc3b82c41c66fef8e869a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym9_146",
+    "filename": "sym9_146.real",
+    "url": "https://www.revlib.org/doc/real/sym9_146.real",
+    "sha256": "2356e945f25dd9c82ce431301c7b9f1d4a99d5211791642da217fefbfb194ede",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym9_148",
+    "filename": "sym9_148.real",
+    "url": "https://www.revlib.org/doc/real/sym9_148.real",
+    "sha256": "0277d79a543d47e3609c7036c3abd31c03395543728adfd24694d274310a86e5",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym9_192",
+    "filename": "sym9_192.real",
+    "url": "https://www.revlib.org/doc/real/sym9_192.real",
+    "sha256": "2356e945f25dd9c82ce431301c7b9f1d4a99d5211791642da217fefbfb194ede",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym9_193",
+    "filename": "sym9_193.real",
+    "url": "https://www.revlib.org/doc/real/sym9_193.real",
+    "sha256": "5e91bb5d1c94f328ad73ad41400fad9ef78a9401f67d73ecf674cd217c702db8",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sym9_317",
+    "filename": "sym9_317.real",
+    "url": "https://www.revlib.org/doc/real/sym9_317.real",
+    "sha256": "dc23facfb58789bcfe1c3186516a5e032a49b22991211e8a8129579d9b2ca10b",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "sys6-v0_111",
+    "filename": "sys6-v0_111.real",
+    "url": "https://www.revlib.org/doc/real/sys6-v0_111.real",
+    "sha256": "e274ff8a2ea282a77c1372f73158ac4f61fcab3057d2c6fd2c21d6256430cff7",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "t481_263",
+    "filename": "t481_263.real",
+    "url": "https://www.revlib.org/doc/real/t481_263.real",
+    "sha256": "3fb7ae7a3a1f01f2c89ca04ee16bb932bd531dd0704077c206f74d6961a6bc2d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "table3_264",
+    "filename": "table3_264.real",
+    "url": "https://www.revlib.org/doc/real/table3_264.real",
+    "sha256": "ca00d9bfefe2fd45bdda379fa355e3c8e9d1ae9b2af3fc447c2760726a394605",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "tial_265",
+    "filename": "tial_265.real",
+    "url": "https://www.revlib.org/doc/real/tial_265.real",
+    "sha256": "b2b724da1531865ed669aa6d50b9d9aa9085ee261959684b53db362aec97b61c",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "toffoli_2",
+    "filename": "toffoli_2.real",
+    "url": "https://www.revlib.org/doc/real/toffoli_2.real",
+    "sha256": "fe3f6bdc877b44101e5b2b9e04aa8bffc05dc9d00d25badd7893fc739b52eb2d",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "toffoli_double_4",
+    "filename": "toffoli_double_4.real",
+    "url": "https://www.revlib.org/doc/real/toffoli_double_4.real",
+    "sha256": "2af8be3bf8442a6a96d9fc4b3921c4a990975dcad2f14ca2730e220f36833fa4",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf1_149",
+    "filename": "urf1_149.real",
+    "url": "https://www.revlib.org/doc/real/urf1_149.real",
+    "sha256": "11bdc5d9861eefafda018f8233de4d4ea1827a1234f275b7b185cd0415c8e0a6",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf1_150",
+    "filename": "urf1_150.real",
+    "url": "https://www.revlib.org/doc/real/urf1_150.real",
+    "sha256": "d7c21e399c64d84f091bf90bc579ba1c54d57f0d95ddd965053d6267a07df94a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf1_151",
+    "filename": "urf1_151.real",
+    "url": "https://www.revlib.org/doc/real/urf1_151.real",
+    "sha256": "05054caabdf15a9bea8c8bbec1b592a491075d71e8c266041af40a88e61f6bea",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf1_278",
+    "filename": "urf1_278.real",
+    "url": "https://www.revlib.org/doc/real/urf1_278.real",
+    "sha256": "3ffcdf39ca2e3c158e8f4cb0d7ab39042c7d4b8a8c78f43f3af9231711d6bd0b",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf2_152",
+    "filename": "urf2_152.real",
+    "url": "https://www.revlib.org/doc/real/urf2_152.real",
+    "sha256": "62119a737b6265b9caa07f0c3468816c0fada00075d45891dc4447c9aa7b84f4",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf2_153",
+    "filename": "urf2_153.real",
+    "url": "https://www.revlib.org/doc/real/urf2_153.real",
+    "sha256": "f49d8d76238145eb4e06cdda4e6d52da47cd42de3b120db26472cd7c257665a5",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf2_154",
+    "filename": "urf2_154.real",
+    "url": "https://www.revlib.org/doc/real/urf2_154.real",
+    "sha256": "a8f6c17df9b43a98c08fa4a6c5e7c4c19317df1de53ab82f447df4faaab486f2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf2_161",
+    "filename": "urf2_161.real",
+    "url": "https://www.revlib.org/doc/real/urf2_161.real",
+    "sha256": "788c7f5732686406312b7e661c9b4aa02e970c37bb972fc6f261460532a9dd57",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf2_277",
+    "filename": "urf2_277.real",
+    "url": "https://www.revlib.org/doc/real/urf2_277.real",
+    "sha256": "d9bda63079ea1bb552d400bc479cc4b74e02a7abf983ab021df8b6e3af59e577",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf3_155",
+    "filename": "urf3_155.real",
+    "url": "https://www.revlib.org/doc/real/urf3_155.real",
+    "sha256": "4b2f35bdc6ea4339eac5f2657ee02bdbd2c9c8856055826152e2078ce07a87b0",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf3_156",
+    "filename": "urf3_156.real",
+    "url": "https://www.revlib.org/doc/real/urf3_156.real",
+    "sha256": "8c5427080a86f9b7fcb9829a1829b6315869a1c2ed2437d6009efbaf44a03705",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf3_157",
+    "filename": "urf3_157.real",
+    "url": "https://www.revlib.org/doc/real/urf3_157.real",
+    "sha256": "58e59693ea317925dc35549913afdfea6c0ed3f9716e0d10846dc53b19262185",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf3_279",
+    "filename": "urf3_279.real",
+    "url": "https://www.revlib.org/doc/real/urf3_279.real",
+    "sha256": "b3fe82da68e1c8d96aa1de998aed5c7f3d5cf0784ede99144fb8af2886a8b16c",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf4_187",
+    "filename": "urf4_187.real",
+    "url": "https://www.revlib.org/doc/real/urf4_187.real",
+    "sha256": "640308b4763266e1ea838b805485702ee801f7ed730799fd3bb62d32fbf4ed5d",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf5_158",
+    "filename": "urf5_158.real",
+    "url": "https://www.revlib.org/doc/real/urf5_158.real",
+    "sha256": "55dfd0e70c4acf3dec11786d8b3accce80fe7d2dfcc8cf32b013df0be285e143",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf5_159",
+    "filename": "urf5_159.real",
+    "url": "https://www.revlib.org/doc/real/urf5_159.real",
+    "sha256": "db52d6bc4527ecdc4f58715f9f80332a59643fe64a7b74147e157659142a1bb0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "urf5_280",
+    "filename": "urf5_280.real",
+    "url": "https://www.revlib.org/doc/real/urf5_280.real",
+    "sha256": "777fd2774b43777a653ab5e97b1eef3fb90d32a6906127e886eb0cd01e56be46",
+    "table1": true,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "wim_266",
+    "filename": "wim_266.real",
+    "url": "https://www.revlib.org/doc/real/wim_266.real",
+    "sha256": "a80b9fef4c0408808563ccf4ea7baa47e071a742e2380db9606f770a35828ba0",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "x2_267",
+    "filename": "x2_267.real",
+    "url": "https://www.revlib.org/doc/real/x2_267.real",
+    "sha256": "080a0508e79f339a7ad032cf9f0947f190dbef8ae00636a3c070af239d2c35b2",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "xor5_254",
+    "filename": "xor5_254.real",
+    "url": "https://www.revlib.org/doc/real/xor5_254.real",
+    "sha256": "5a7e5c827e18e6aa84b09be6c615a480ffcf6ae7839a61cd4b51d49cb98adaff",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "z4_268",
+    "filename": "z4_268.real",
+    "url": "https://www.revlib.org/doc/real/z4_268.real",
+    "sha256": "fd14d8b1e111d9899ec2ea24ca80f580957cd6d42a0b249a94c8aeb6cd61281a",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  },
+  {
+    "benchmark": "z4ml_269",
+    "filename": "z4ml_269.real",
+    "url": "https://www.revlib.org/doc/real/z4ml_269.real",
+    "sha256": "08be50215218bf6108b50a4768abefd7ac4a6c58035c1af476a0111f1b33b0ae",
+    "table1": false,
+    "source": "RevLib via original research archive",
+    "redistribution_status": "not bundled; external data"
+  }
+]
