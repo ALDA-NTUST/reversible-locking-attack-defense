@@ -24,7 +24,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-// Adapted from the pinned CirKit functions; see provenance/ADAPTATIONS.md.
+// Adapted from the pinned CirKit functions; see ../../ADAPTATIONS.md.
 #include "legacy_esop.hpp"
 #include <core/io/pla_parser.hpp>
 #include <core/utils/bitset_utils.hpp>

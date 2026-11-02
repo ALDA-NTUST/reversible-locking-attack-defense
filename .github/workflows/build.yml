@@ -1,4 +1,4 @@
-name: Build and CLI tests
+name: Build, test, and reproduce
 on:
   push:
   pull_request:
@@ -8,13 +8,16 @@ permissions:
 jobs:
   linux:
     runs-on: ubuntu-22.04
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - name: Install build dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y cmake g++ make python3 libboost-filesystem-dev libboost-system-dev zlib1g-dev
+          sudo apt-get install -y git ca-certificates cmake g++ make python3 libboost-filesystem-dev libboost-system-dev zlib1g-dev
       - name: Build and test the user entry point
         run: python3 setup.py --jobs 2
       - name: Check implementation and source notices
         run: python3 _internal/scripts/check_release.py
+      - name: Reproduce Table I
+        run: python3 reproduce.py

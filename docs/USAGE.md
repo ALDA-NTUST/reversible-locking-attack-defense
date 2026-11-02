@@ -93,4 +93,4 @@ The cache must contain the commits in `_internal/dependencies.lock.json`, includ
 | Benchmark checksum differs | Preserve the error and use the exact original archive if available |
 | Input format is rejected | Check the supported circuit format and line limits above |
 
-For a bug report, include the command, OS, `python3 revc-tool doctor` output, and relevant logs. See [validation](../_internal/validation/VALIDATION.md) for the tested environments.
+For a bug report, include the command, OS, `python3 revc-tool doctor` output, and relevant logs. See [validation](REPRODUCIBILITY.md) for the tested environments.

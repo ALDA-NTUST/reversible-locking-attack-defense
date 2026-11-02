@@ -18,7 +18,7 @@ class FetchTests(unittest.TestCase):
         self.temporary = tempfile.TemporaryDirectory(prefix='revc-data-test-')
         self.root = Path(self.temporary.name)
         (self.root / 'experiments/iccd').mkdir(parents=True)
-        self.data = (PROJECT / 'examples/demo.real').read_bytes()
+        self.data = (PROJECT.parent / 'examples/demo.real').read_bytes()
         info = [dict(filename='demo.real', sha256=hashlib.sha256(self.data).hexdigest(),
                      table1=True, url='https://example.invalid/demo.real')]
         (self.root / 'experiments/iccd/benchmarks.json').write_text(json.dumps(info))

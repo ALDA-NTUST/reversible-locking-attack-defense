@@ -1,6 +1,6 @@
 # Adaptations from the original experiment
 
-`original_experiment.cpp` is byte-identical to the root experiment source in the original research ZIP. `legacy_changes.patch` records changes to `src/legacy_experiment.cpp`.
+The laboratory implementation was adapted from Feng-Jie Chao's archived `reversible_circuit_2_SFLL-HD_circuit.cpp` (SHA-256 `7a4977c812e0d182ce7bc65305510fba68aa4b2386e92080a06e8c69ef4970c1`). The following notes describe the research-source changes and upstream adaptations. Historical source snapshots and preparation reports are retained separately by the maintainers.
 
 Changes to the laboratory experiment source:
 
@@ -19,4 +19,4 @@ Their original MIT notice is retained. Unrelated BDD/GIA interfaces and the stat
 
 Only the required upstream C++ sources and six ABC EXORCISM source files are compiled by the new project-owned CMake build. It does not invoke the historical mixed-license CirKit build scripts, and does not compile or link PUMA, Z3, CUDD implementation code or the full ABC shell. CUDD's two public headers are present only because the upstream reader's type declarations reference them. All actual dependency files are recorded in `dependencies.integrity.json`.
 
-The historical local `simplify.cpp` contained an unrelated debug print in another function; that modification is not part of this adapter. No journal/restore-free code or Web wrapper was imported.
+The historical local `simplify.cpp` contained an unrelated debug print in another function; that modification is not part of this adapter. The package covers the legacy ICCD 2025 implementation.

@@ -1,23 +1,17 @@
-# Authors and attribution
+# Authors and acknowledgments
 
 ## Laboratory ownership and maintenance
 
-**Advanced Logic Design Automation Lab (ALDA), National Taiwan University of Science and Technology**, is the copyright attribution and maintenance unit for this source release. The GitHub maintainer account is [ALDA-NTUST](https://github.com/ALDA-NTUST). Laboratory-owned project code is distributed under the MIT License.
+**Advanced Logic Design Automation Lab (ALDA), National Taiwan University of Science and Technology**, maintains this source release through [ALDA-NTUST](https://github.com/ALDA-NTUST). Laboratory-owned project code is copyright (c) 2026 ALDA, NTUST, and distributed under the root [MIT License](../LICENSE).
 
-This attribution follows the laboratory user's report of the professor's instructions on 2026-11-02. The year 2026 refers to this source release; original third-party copyright years and notices remain unchanged.
-
-## Associated paper and research authors
+## Associated paper
 
 **Feng-Jie Chao and Yung-Chih Chen.** [Decomposition Attack on Structural Logic Locking of Reversible Circuits](https://doi.org/10.1109/ICCD65941.2025.00098). In *2025 IEEE 43rd International Conference on Computer Design (ICCD)*, pp. 646-653, 2025.
 
-- **Feng-Jie Chao** provided the original research experiment archive and its `README_FENG-JIE.txt`; that provenance is retained.
-- **Feng-Jie Chao and Yung-Chih Chen** are the paper authors, with affiliation to the Department of Electrical Engineering, National Taiwan University of Science and Technology.
-- Command-line packaging, dependency isolation, and verification tooling were added during release preparation. They are distinguished from the archived research implementation in `provenance/ADAPTATIONS.md`.
+Feng-Jie Chao provided the original laboratory research implementation. Feng-Jie Chao and Yung-Chih Chen are the paper authors, affiliated with the Department of Electrical Engineering, National Taiwan University of Science and Technology. The source adaptations and added command-line/reproduction tooling are described in [ADAPTATIONS.md](ADAPTATIONS.md).
 
-The laboratory user confirmed the original developer's agreement to laboratory publication on 2026-10-31. This permission remains recorded. Laboratory copyright attribution preserves the original authors' research credit.
+## Earlier research and third-party code
 
-## Earlier work and third-party components
+**Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu.** [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550), ETS 2019, pp. 1-6, introduced RevC-Lock. This project provides a research reimplementation of that method as its experimental baseline. Decomposition Attack and Control Obfuscation are associated with the ICCD 2025 paper above.
 
-RevC-Lock was introduced by **Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu**, [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550), ETS 2019, pp. 1-6. This project provides a research reimplementation of that earlier method as the experimental baseline. Decomposition Attack and Control Obfuscation are associated with the ICCD 2025 paper above.
-
-Upstream authors and copyright holders remain identified in source headers, `THIRD_PARTY_NOTICES.md`, and `licenses/`. These files and RevLib benchmark data are not reassigned to laboratory ownership by the project MIT License.
+Upstream authors and copyright holders remain credited in source headers, [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), and `licenses/`. Those files and RevLib input data retain their original ownership and applicable terms.

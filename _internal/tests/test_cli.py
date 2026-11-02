@@ -21,12 +21,12 @@ class ToolTests(unittest.TestCase):
         self.temporary = tempfile.TemporaryDirectory(prefix='revc cli unicode \u00e9 ')
         self.work = Path(self.temporary.name)
         self.original = self.work / 'original \u00e9 input.real'
-        self.original.write_bytes((ROOT / 'examples/demo.real').read_bytes())
+        self.original.write_bytes((ROOT.parent / 'examples/demo.real').read_bytes())
 
     def tearDown(self): self.temporary.cleanup()
 
     def invoke(self, *args, **kwargs):
-        cmd = [sys.executable, str(ROOT / 'revc-tool')] + list(map(str, args))
+        cmd = [sys.executable, str(ROOT.parent / 'revc-tool')] + list(map(str, args))
         cmd += ['--build-dir', str(ARGS.build_dir), '--json']
         result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
         self.assertEqual(result.returncode, kwargs.get('status', 0), result.stdout + result.stderr)

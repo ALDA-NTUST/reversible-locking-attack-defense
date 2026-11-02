@@ -44,7 +44,7 @@ python3 reproduce.py
 
 This downloads and verifies the 11 RevLib inputs, runs both locking modes and the attack, and compares counts, circuit hashes, and equivalence outcomes with the archived baseline. Results are written to `outputs/iccd-table1/comparison.csv` and `summary.json`.
 
-The clean Ubuntu 22.04 Docker test passed all 11 cases and matched all 22 encrypted-circuit hashes. A separate archived-input validation passed all 245 cases in both modes. CPU timings vary by machine. See the [validation record](_internal/validation/VALIDATION.md) for the exact scope and evidence.
+The clean Ubuntu 22.04 Docker test passed all 11 cases and matched all 22 encrypted-circuit hashes. A separate archived-input validation passed all 245 cases in both modes. CPU timings vary by machine. See the [validation record](docs/REPRODUCIBILITY.md) for the exact scope and evidence.
 
 ## Research attribution
 
@@ -54,7 +54,7 @@ The clean Ubuntu 22.04 Docker test passed all 11 cases and matched all 22 encryp
 | `attack`: Decomposition Attack | Feng-Jie Chao and Yung-Chih Chen, ICCD 2025 paper linked above |
 | `defend`: Control Obfuscation | Feng-Jie Chao and Yung-Chih Chen, ICCD 2025 paper linked above |
 
-RevC-Lock is credited to its original authors. The source provenance and upstream adaptations are recorded in [AUTHORS.md](_internal/AUTHORS.md) and [ADAPTATIONS.md](_internal/provenance/ADAPTATIONS.md).
+RevC-Lock is credited to its original authors. The source provenance and upstream adaptations are recorded in [AUTHORS.md](_internal/AUTHORS.md) and [ADAPTATIONS.md](_internal/ADAPTATIONS.md).
 
 ## Citation and license
 
@@ -79,6 +79,6 @@ RevLib inputs are downloaded separately and are not assigned the laboratory soft
 
 - [Usage and troubleshooting](docs/USAGE.md)
 - [Maintainer guide](docs/MAINTENANCE.md)
-- [Validation results](_internal/validation/VALIDATION.md)
+- [Experimental reproduction](docs/REPRODUCIBILITY.md)
 
 Report problems through this repository's Issues page, including the command, environment, and error output.

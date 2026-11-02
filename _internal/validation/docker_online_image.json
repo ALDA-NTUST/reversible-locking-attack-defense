@@ -1,9 +1,0 @@
-{
-  "image": "ubuntu:22.04",
-  "image_id": "sha256:a7b0f6af325461862a99c677cf3229ca5241d9f4f4289bd00cc2cce91a3aff23",
-  "repo_digests": [
-    "ubuntu@sha256:076e7bf82319619f28dd0aa9c02ab34b055ad37100395b4f49a2ffba04fb5e11"
-  ],
-  "image_created": "2026-10-25T20:10:44.698249596Z",
-  "network_mode": "bridge"
-}
