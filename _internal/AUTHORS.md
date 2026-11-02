@@ -18,6 +18,6 @@ The laboratory user confirmed the original developer's agreement to laboratory p
 
 ## Earlier work and third-party components
 
-RevC-Lock is attributed to N. Limaye et al., *Revisiting logic locking for reversible computing*, ETS 2019; this project provides its research reimplementation. Decomposition Attack and Control Obfuscation are associated with the ICCD 2025 paper above.
+RevC-Lock was introduced by **Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu**, [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550), ETS 2019, pp. 1-6. This project provides a research reimplementation of that earlier method as the experimental baseline. Decomposition Attack and Control Obfuscation are associated with the ICCD 2025 paper above.
 
 Upstream authors and copyright holders remain identified in source headers, `THIRD_PARTY_NOTICES.md`, and `licenses/`. These files and RevLib benchmark data are not reassigned to laboratory ownership by the project MIT License.

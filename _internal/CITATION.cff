@@ -25,3 +25,19 @@ preferred-citation:
   end: 653
   doi: "10.1109/ICCD65941.2025.00098"
   url: "https://doi.org/10.1109/ICCD65941.2025.00098"
+references:
+  - type: conference-paper
+    title: "Revisiting Logic Locking for Reversible Computing"
+    authors:
+      - family-names: Limaye
+        given-names: Nimisha
+      - family-names: Yasin
+        given-names: Muhammad
+      - family-names: Sinanoglu
+        given-names: Ozgur
+    collection-title: "2019 IEEE European Test Symposium (ETS)"
+    year: 2019
+    start: 1
+    end: 6
+    doi: "10.1109/ETS.2019.8791550"
+    url: "https://doi.org/10.1109/ETS.2019.8791550"

@@ -81,6 +81,14 @@ Copyright (c) 2026 Advanced Logic Design Automation Lab (ALDA), NTUST. Laborator
 
 On 2026-11-02 the supplied implementation passed a clean Ubuntu 22.04 Docker test with online installation, all six pinned GitHub dependencies and all 11 RevLib Table I inputs downloaded from their upstream sources. All cases passed and all 22 encrypted-file checksums matched. See the [Docker report](_internal/validation/docker_online_report.md). GitHub Actions execution is separate from this Docker evidence. Changed benchmark content is rejected by checksum verification.
 
+## Related research
+
+The `lock` command is a research reimplementation of **RevC-Lock**, introduced in:
+
+> **Nimisha Limaye, Muhammad Yasin, and Ozgur Sinanoglu.** [Revisiting Logic Locking for Reversible Computing](https://doi.org/10.1109/ETS.2019.8791550). *2019 IEEE European Test Symposium (ETS)*, pp. 1-6, 2019. DOI: `10.1109/ETS.2019.8791550`.
+
+RevC-Lock is the earlier locking method used as the experimental baseline. The `attack` command implements Decomposition Attack, and `defend` implements Control Obfuscation, from Chao and Chen's ICCD 2025 paper identified above. The earlier RevC-Lock method is credited to its original authors.
+
 ## Citation
 
 If you use this implementation in research, please cite the associated paper:
