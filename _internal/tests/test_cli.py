@@ -17,9 +17,10 @@ ARGS, remaining = parser.parse_known_args()
 
 class ToolTests(unittest.TestCase):
     def setUp(self):
-        self.temporary = tempfile.TemporaryDirectory(prefix='revc cli 空白 ')
+        # Exercise spaces and Unicode paths using an escaped accent.
+        self.temporary = tempfile.TemporaryDirectory(prefix='revc cli unicode \u00e9 ')
         self.work = Path(self.temporary.name)
-        self.original = self.work / '原始 input.real'
+        self.original = self.work / 'original \u00e9 input.real'
         self.original.write_bytes((ROOT / 'examples/demo.real').read_bytes())
 
     def tearDown(self): self.temporary.cleanup()

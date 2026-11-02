@@ -4,9 +4,9 @@
 
 The original ICCD implementation of RevC-Lock, Decomposition Attack and Control Obfuscation, associated with the manuscript by Feng-Jie Chao and Yung-Chih Chen. This user-facing layout retains the validated implementation and its third-party notices under `_internal/`.
 
-這份是舊版工具的使用入口。一般使用者只需看本文件，並使用 `setup.py`、`revc-tool`、`reproduce.py`。
+Use this guide and the three entry points: `setup.py`, `revc-tool`, and `reproduce.py`.
 
-## 1. Install / 安裝
+## 1. Install
 
 Use 64-bit glibc Linux. Install the system build tools on Ubuntu/Debian:
 
@@ -20,25 +20,25 @@ python3 revc-tool doctor
 
 The installer fetches fixed upstream versions, builds the native tools and runs tests. Python needs no pip packages. Offline source-cache setup is available as `python3 setup.py --cache-root /path/to/cirkit`.
 
-## 2. Use the three functions / 三個功能
+## 2. Use the three functions
 
 ```bash
-# RevC-Lock encryption / 加密
+# RevC-Lock encryption
 python3 revc-tool lock examples/demo.real outputs/locked.real
 
-# Attack / 攻擊還原
+# Decomposition Attack
 python3 revc-tool attack outputs/locked.real outputs/recovered.real
 
-# Verify the recovered circuit / 驗證還原結果
+# Verify the recovered circuit
 python3 revc-tool verify examples/demo.real outputs/recovered.real
 
-# Legacy paper defense / 論文防禦，輸入原始電路
+# Control Obfuscation defense, applied to the original circuit
 python3 revc-tool defend examples/demo.real outputs/defended.real
 ```
 
 Replace `examples/demo.real` with your original `.real` circuit. Each operation writes to the output path you specify. Existing files are preserved; use `--force` to overwrite. `attack --reference ORIGINAL.real` also performs the equivalence check. `--json` provides structured output.
 
-## 3. Reproduce Table I / 重現論文
+## 3. Reproduce Table I
 
 ```bash
 python3 reproduce.py
@@ -54,16 +54,16 @@ python3 reproduce.py --from-archive /path/to/original-research.zip
 
 For all 245 inputs add `--suite all` and select a fresh `--output`. To continue an interrupted run, add `--resume`.
 
-## Where things are / 檔案放哪裡
+## Where things are
 
 | Item | Purpose |
 | --- | --- |
-| `setup.py` | Install/build once / 安裝 |
-| `revc-tool` | `lock`, `attack`, `defend`, `verify` / 操作 |
-| `reproduce.py` | Fetch/import inputs and rerun the paper / 重現論文 |
-| `examples/` | Small demonstration circuit / 範例 |
-| `outputs/` | Your generated results; created on use / 執行後產生的結果 |
-| `_internal/` | Implementation, fixed dependencies, tests, attribution and validation / 程式與技術紀錄 |
+| `setup.py` | Install and build once |
+| `revc-tool` | Run `lock`, `attack`, `defend`, or `verify` |
+| `reproduce.py` | Fetch or import inputs and reproduce the paper results |
+| `examples/` | Small demonstration circuit |
+| `outputs/` | Generated results; created when commands run |
+| `_internal/` | Implementation, pinned dependencies, tests, attribution, and validation |
 
 The algorithm, dependency versions and acceptance baseline are unchanged. The original preparation validated 245 cases in both encryption modes and matched all 490 encrypted files byte-for-byte; see [validation](_internal/validation/VALIDATION.md). CPU timings vary by machine.
 

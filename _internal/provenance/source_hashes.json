@@ -18,7 +18,7 @@
   "scripts/setup.py": "6552b8bc3236022abe084d970b8160363b9c3d9754601707236e0014cd60fd77",
   "src/legacy_experiment.cpp": "b2db7edaf44a8f27e6d478064c1737a6b17199a93156b244bb80f71a22f33416",
   "src/native_main.cpp": "73f4142ea6a0d45a2d9f6c562d18b3388c1a923c6d23fd2d7a297d874bc32742",
-  "tests/test_cli.py": "0914270d3a30141bbc0add4895b6a87eb0f954715f6f7719953124dd0d44b875",
+  "tests/test_cli.py": "b15bbfb78574e2ddf89b0144415684b1367194872f02023c75ea34cb0caf50f7",
   "tests/test_fetch.py": "e324128ad33b2b258f6607ef0b977243b635dbad5e18a5f0f13c8e46785644ea",
   "third_party_adapters/cirkit/legacy_esop.cpp": "03f47e9b509cdd01502f1d16c0e78eadfe450ea7b5113620f40e9622264a9b8e",
   "third_party_adapters/cirkit/legacy_esop.hpp": "0bef1ac7e23c80cc6095f708f2113b6efcea79d512b9321afe52265b21f2bf45"
